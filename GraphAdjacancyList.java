@@ -6,18 +6,18 @@ public class GraphAdjacancyList {
         Scanner input = new Scanner(System.in);
         int n = input.nextInt(), m = input.nextInt(), v1, v2, index = 0;
         
-        ArrayList<Integer> adjList[] = new ArrayList[n + 1];
+        ArrayList<ArrayList<Integer>> adjList = new ArrayList<ArrayList<Integer>>(); 
         
         for (int i = 0; i < n + 1; i++) {
-            adjList[i] = new ArrayList<Integer>(); 
+            adjList.add(new ArrayList<Integer>()); 
         }
         
         for (int i = 0; i < m; i++) {
             v1 = input.nextInt();
             v2 = input.nextInt();
             
-            adjList[v1].add(v2);
-            adjList[v2].add(v1);
+            adjList.get(v1).add(v2);
+            adjList.get(v2).add(v1);
         }
         
         for (ArrayList<Integer> list: adjList) {
