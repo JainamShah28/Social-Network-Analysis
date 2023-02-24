@@ -1,0 +1,2127 @@
+﻿Source ,Source Airport,Destination,Destination Airport,Weight
+118,Chicago O'hare Intl,201,San Francisco Intl,0.1804
+118,Chicago O'hare Intl,258,Phoenix Sky Harbor Intl,0.1474
+118,Chicago O'hare Intl,182,Lambert-St Louis Intl,0.0332
+118,Chicago O'hare Intl,152,Pittsburgh Intll,0.0416
+118,Chicago O'hare Intl,162,Philadelphia Intl,0.0676
+47,Seattle-Tacoma Intl,118,Chicago O'hare Intl,0.1828
+118,Chicago O'hare Intl,144,Salt Lake City Intl,0.1231
+118,Chicago O'hare Intl,263,San Diego Intl-Lindbergh Fld,0.1733
+118,Chicago O'hare Intl,301,Tampa Intl,0.1366
+118,Chicago O'hare Intl,221,Raleigh-Durham Intll,0.0745
+118,Chicago O'hare Intl,321,Luis Munoz Marin Intl,0.251
+118,Chicago O'hare Intl,203,San Jose Intll,0.1788
+65,Portland Intl,118,Chicago O'hare Intl,0.18
+118,Chicago O'hare Intl,306,Palm Beach Intl,0.1514
+118,Chicago O'hare Intl,297,San Antonio Intl,0.1305
+118,Chicago O'hare Intl,253,John Wayne Airport-Orange Coun,0.172
+118,Chicago O'hare Intl,183,Sacramento Metropolitan,0.1744
+118,Chicago O'hare Intl,307,Southwest Florida Intl,0.1508
+118,Chicago O'hare Intl,169,Reno/Tahoe Intll,0.164
+118,Chicago O'hare Intl,216,Tulsa Intl,0.0686
+118,Chicago O'hare Intl,212,Norfolk Intl,0.0769
+118,Chicago O'hare Intl,274,Tucson Intl,0.1504
+92,Syracuse Hancock Intl,118,Chicago O'hare Intl,0.0611
+68,Bangor Intl,118,Chicago O'hare Intl,0.1008
+91,Greater Rochester Intl,118,Chicago O'hare Intl,0.0532
+118,Chicago O'hare Intl,125,Theodore Francis Green State,0.0839
+118,Chicago O'hare Intl,189,Louisville Intl,0.0379
+118,Chicago O'hare Intl,305,Sarasota/Bradenton Intl,0.1419
+118,Chicago O'hare Intl,202,Richmond Intll,0.0688
+118,Chicago O'hare Intl,222,Mc Ghee Tyson,0.0622
+80,Portland Intl Jetport,118,Chicago O'hare Intl,0.091
+118,Chicago O'hare Intl,273,Savannah Intll,0.1001
+118,Chicago O'hare Intl,250,Palm Springs Regional,0.1652
+118,Chicago O'hare Intl,126,Michiana Rgnl Transportation C,0.0085
+118,Chicago O'hare Intl,204,Roanoke Regional/Woodrum Field,0.06
+118,Chicago O'hare Intl,127,Toledo Express,0.0212
+118,Chicago O'hare Intl,186,Yeager,0.0471
+118,Chicago O'hare Intl,148,Greater Peoria Regional,0.0155
+118,Chicago O'hare Intl,129,Stewart Int'l,0.0704
+76,Rapid City Regional,118,Chicago O'hare Intl,0.0797
+78,Rochester Intll,118,Chicago O'hare Intl,0.0298
+118,Chicago O'hare Intl,163,Capital,0.0223
+70,Cherry Capital,118,Chicago O'hare Intl,0.0289
+114,Greater Rockford,118,Chicago O'hare Intl,0.0065
+77,Wittman Regional,118,Chicago O'hare Intl,0.0195
+118,Chicago O'hare Intl,261,Dallas/Fort Worth Intl,0.0985
+248,Los Angeles Intl,261,Dallas/Fort Worth Intl,0.1093
+201,San Francisco Intl,261,Dallas/Fort Worth Intl,0.1367
+150,John F Kennedy Intl,261,Dallas/Fort Worth Intl,0.1396
+261,Dallas/Fort Worth Intl,311,Miami Intl,0.109
+146,La Guardia,261,Dallas/Fort Worth Intl,0.14
+147,Newark Intl,261,Dallas/Fort Worth Intl,0.1383
+258,Phoenix Sky Harbor Intl,261,Dallas/Fort Worth Intl,0.0765
+112,Detroit Metropolitan Wayne Cou,261,Dallas/Fort Worth Intl,0.1131
+261,Dallas/Fort Worth Intl,313,Honolulu Intl,0.3292
+182,Lambert-St Louis Intl,261,Dallas/Fort Worth Intl,0.0655
+67,Minneapolis-St Paul Intl/Wold-,261,Dallas/Fort Worth Intl,0.1162
+219,Mc Carran Intl,261,Dallas/Fort Worth Intl,0.0972
+261,Dallas/Fort Worth Intl,299,Orlando Intl,0.0907
+152,Pittsburgh Intll,261,Dallas/Fort Worth Intl,0.1122
+261,Dallas/Fort Worth Intl,293,Houston Intercontinental,0.0291
+162,Philadelphia Intl,261,Dallas/Fort Worth Intl,0.1295
+47,Seattle-Tacoma Intl,261,Dallas/Fort Worth Intl,0.1894
+144,Salt Lake City Intl,261,Dallas/Fort Worth Intl,0.1071
+261,Dallas/Fort Worth Intl,263,San Diego Intl-Lindbergh Fld,0.1026
+261,Dallas/Fort Worth Intl,301,Tampa Intl,0.0876
+177,Washington Dulles Intl,261,Dallas/Fort Worth Intl,0.1152
+221,Raleigh-Durham Intll,261,Dallas/Fort Worth Intl,0.0972
+261,Dallas/Fort Worth Intl,310,Fort Lauderdale/Hollywood Intl,0.1079
+232,Memphis Intl,261,Dallas/Fort Worth Intl,0.0414
+261,Dallas/Fort Worth Intl,321,Luis Munoz Marin Intl,0.2098
+261,Dallas/Fort Worth Intl,296,William P Hobby,0.0323
+123,Chicago Midway,261,Dallas/Fort Worth Intl,0.0973
+172,Kansas City Intl,261,Dallas/Fort Worth Intl,0.0623
+261,Dallas/Fort Worth Intl,292,New Orleans Intl/Moisant Fld/,0.0442
+203,San Jose Intll,261,Dallas/Fort Worth Intl,0.1338
+65,Portland Intl,261,Dallas/Fort Worth Intl,0.1779
+167,Indianapolis Intl,261,Dallas/Fort Worth Intl,0.0851
+261,Dallas/Fort Worth Intl,306,Palm Beach Intl,0.1047
+197,Metropolitan Oakland Intl,261,Dallas/Fort Worth Intl,0.1363
+261,Dallas/Fort Worth Intl,297,San Antonio Intl,0.0329
+246,Ontario Intl,261,Dallas/Fort Worth Intl,0.1053
+253,John Wayne Airport-Orange Coun,261,Dallas/Fort Worth Intl,0.1064
+94,General Mitchell Intll,261,Dallas/Fort Worth Intl,0.1068
+183,Sacramento Metropolitan,261,Dallas/Fort Worth Intl,0.1369
+261,Dallas/Fort Worth Intl,307,Southwest Florida Intl,0.0987
+261,Dallas/Fort Worth Intl,276,El Paso Intl,0.0487
+225,Will Rogers World,261,Dallas/Fort Worth Intl,0.0241
+169,Reno/Tahoe Intll,261,Dallas/Fort Worth Intl,0.1319
+216,Tulsa Intl,261,Dallas/Fort Worth Intl,0.0321
+261,Dallas/Fort Worth Intl,284,Jacksonville Intl,0.0815
+212,Norfolk Intl,261,Dallas/Fort Worth Intl,0.1128
+261,Dallas/Fort Worth Intl,274,Tucson Intl,0.0712
+189,Louisville Intl,261,Dallas/Fort Worth Intl,0.0765
+133,Eppley Airfield,261,Dallas/Fort Worth Intl,0.0806
+239,Adams Field,261,Dallas/Fort Worth Intl,0.0302
+202,Richmond Intll,261,Dallas/Fort Worth Intl,0.1097
+218,Piedmont Triad Intll,261,Dallas/Fort Worth Intl,0.0923
+128,Des Moines Intl,261,Dallas/Fort Worth Intl,0.0844
+251,Long Beach /Daugherty Field/,261,Dallas/Fort Worth Intl,0.1079
+254,Lubbock Intl,261,Dallas/Fort Worth Intl,0.0255
+261,Dallas/Fort Worth Intl,275,Midland Intll,0.0278
+198,Wichita Mid-Continent,261,Dallas/Fort Worth Intl,0.0455
+222,Mc Ghee Tyson,261,Dallas/Fort Worth Intl,0.072
+261,Dallas/Fort Worth Intl,308,Rio Grande Valley Intl,0.0638
+261,Dallas/Fort Worth Intl,273,Savannah Intll,0.0809
+240,Huntsville Intl-Carl T Jones F,261,Dallas/Fort Worth Intl,0.0549
+213,Fresno Air Terminal,261,Dallas/Fort Worth Intl,0.1213
+250,Palm Springs Regional,261,Dallas/Fort Worth Intl,0.0996
+261,Dallas/Fort Worth Intl,286,Pensacola Regional,0.0553
+261,Dallas/Fort Worth Intl,271,Jackson Intll,0.0358
+261,Dallas/Fort Worth Intl,281,Mobile Regional,0.0495
+261,Dallas/Fort Worth Intl,267,Shreveport Regional,0.0169
+242,Santa Barbara Muni,261,Dallas/Fort Worth Intl,0.117
+261,Dallas/Fort Worth Intl,309,Mc Allen Miller Intl,0.0645
+206,Springfield Regional,261,Dallas/Fort Worth Intl,0.0456
+81,Jackson Hole,261,Dallas/Fort Worth Intl,0.1239
+220,Drake Field,261,Dallas/Fort Worth Intl,0.0331
+261,Dallas/Fort Worth Intl,290,Lafayette Regional,0.0363
+261,Dallas/Fort Worth Intl,266,Monroe Regional,0.0257
+226,Fort Smith Regional,261,Dallas/Fort Worth Intl,0.0271
+261,Dallas/Fort Worth Intl,270,Tyler Pounds Field,0.0097
+142,Elko Muni-J.C. Harris Field,261,Dallas/Fort Worth Intl,0.1219
+241,Lawton Muni,261,Dallas/Fort Worth Intl,0.0175
+261,Dallas/Fort Worth Intl,278,Alexandria Esler Regional,0.028
+261,Dallas/Fort Worth Intl,279,Mathis Field,0.0229
+261,Dallas/Fort Worth Intl,291,Lake Charles Regional,0.0328
+247,Sheppard Afb/Wichita Falls Mun,261,Dallas/Fort Worth Intl,0.0128
+261,Dallas/Fort Worth Intl,304,Laredo Intl,0.0526
+184,Gunnison County,261,Dallas/Fort Worth Intl,0.0738
+261,Dallas/Fort Worth Intl,280,Killeen Muni,0.0176
+153,Yampa Valley,261,Dallas/Fort Worth Intl,0.0892
+257,Texarkana Regional-Webb Field,261,Dallas/Fort Worth Intl,0.0164
+261,Dallas/Fort Worth Intl,269,Gregg County,0.0127
+168,Eagle County Regional,261,Dallas/Fort Worth Intl,0.0818
+118,Chicago O'hare Intl,255,The William B Hartsfield Atlan,0.0815
+255,The William B Hartsfield Atlan,261,Dallas/Fort Worth Intl,0.0646
+248,Los Angeles Intl,255,The William B Hartsfield Atlan,0.173
+201,San Francisco Intl,255,The William B Hartsfield Atlan,0.1969
+150,John F Kennedy Intl,255,The William B Hartsfield Atlan,0.086
+166,Stapleton Intl,255,The William B Hartsfield Atlan,0.1195
+255,The William B Hartsfield Atlan,311,Miami Intl,0.0779
+146,La Guardia,255,The William B Hartsfield Atlan,0.0868
+109,General Edward Lawrence Logan,255,The William B Hartsfield Atlan,0.1078
+147,Newark Intl,255,The William B Hartsfield Atlan,0.0852
+255,The William B Hartsfield Atlan,258,Phoenix Sky Harbor Intl,0.1405
+112,Detroit Metropolitan Wayne Cou,255,The William B Hartsfield Atlan,0.0821
+255,The William B Hartsfield Atlan,313,Honolulu Intl,0.3924
+182,Lambert-St Louis Intl,255,The William B Hartsfield Atlan,0.0574
+67,Minneapolis-St Paul Intl/Wold-,255,The William B Hartsfield Atlan,0.1163
+219,Mc Carran Intl,255,The William B Hartsfield Atlan,0.1582
+255,The William B Hartsfield Atlan,299,Orlando Intl,0.0523
+152,Pittsburgh Intll,255,The William B Hartsfield Atlan,0.0688
+255,The William B Hartsfield Atlan,293,Houston Intercontinental,0.0657
+162,Philadelphia Intl,255,The William B Hartsfield Atlan,0.0757
+47,Seattle-Tacoma Intl,255,The William B Hartsfield Atlan,0.2336
+230,Charlotte/Douglas Intl,255,The William B Hartsfield Atlan,0.0232
+179,Washington National,255,The William B Hartsfield Atlan,0.0624
+144,Salt Lake City Intl,255,The William B Hartsfield Atlan,0.156
+255,The William B Hartsfield Atlan,263,San Diego Intl-Lindbergh Fld,0.167
+255,The William B Hartsfield Atlan,301,Tampa Intl,0.0551
+174,Baltimore-Washington Intl,255,The William B Hartsfield Atlan,0.0659
+177,Washington Dulles Intl,255,The William B Hartsfield Atlan,0.0618
+221,Raleigh-Durham Intll,255,The William B Hartsfield Atlan,0.0357
+176,Cincinnati/Northern Kentucky I,255,The William B Hartsfield Atlan,0.0516
+255,The William B Hartsfield Atlan,310,Fort Lauderdale/Hollywood Intl,0.0756
+232,Memphis Intl,255,The William B Hartsfield Atlan,0.0313
+131,Cleveland-Hopkins Intl,255,The William B Hartsfield Atlan,0.0753
+255,The William B Hartsfield Atlan,321,Luis Munoz Marin Intl,0.1729
+255,The William B Hartsfield Atlan,296,William P Hobby,0.0672
+123,Chicago Midway,255,The William B Hartsfield Atlan,0.0796
+217,Nashville Intll,255,The William B Hartsfield Atlan,0.0263
+172,Kansas City Intl,255,The William B Hartsfield Atlan,0.0752
+255,The William B Hartsfield Atlan,292,New Orleans Intl/Moisant Fld/,0.0458
+65,Portland Intl,255,The William B Hartsfield Atlan,0.2254
+167,Indianapolis Intl,255,The William B Hartsfield Atlan,0.0588
+255,The William B Hartsfield Atlan,306,Palm Beach Intl,0.0701
+255,The William B Hartsfield Atlan,297,San Antonio Intl,0.0816
+246,Ontario Intl,255,The William B Hartsfield Atlan,0.1689
+119,Bradley Intl,255,The William B Hartsfield Atlan,0.0992
+253,John Wayne Airport-Orange Coun,255,The William B Hartsfield Atlan,0.1703
+94,General Mitchell Intll,255,The William B Hartsfield Atlan,0.0906
+255,The William B Hartsfield Atlan,288,Robert Mueller Muni,0.0748
+161,James M Cox Dayton Intl,255,The William B Hartsfield Atlan,0.0598
+159,Port Columbus Intl,255,The William B Hartsfield Atlan,0.0612
+255,The William B Hartsfield Atlan,307,Southwest Florida Intl,0.0692
+95,Greater Buffalo Intl,255,The William B Hartsfield Atlan,0.0934
+255,The William B Hartsfield Atlan,276,El Paso Intl,0.1132
+225,Will Rogers World,255,The William B Hartsfield Atlan,0.0691
+216,Tulsa Intl,255,The William B Hartsfield Atlan,0.0633
+255,The William B Hartsfield Atlan,284,Jacksonville Intl,0.0332
+212,Norfolk Intl,255,The William B Hartsfield Atlan,0.0521
+92,Syracuse Hancock Intl,255,The William B Hartsfield Atlan,0.0998
+91,Greater Rochester Intl,255,The William B Hartsfield Atlan,0.0968
+125,Theodore Francis Green State,255,The William B Hartsfield Atlan,0.1017
+255,The William B Hartsfield Atlan,256,Birmingham Intl,0.0118
+189,Louisville Intl,255,The William B Hartsfield Atlan,0.0438
+133,Eppley Airfield,255,The William B Hartsfield Atlan,0.0936
+255,The William B Hartsfield Atlan,305,Sarasota/Bradenton Intl,0.0605
+239,Adams Field,255,The William B Hartsfield Atlan,0.041
+202,Richmond Intll,255,The William B Hartsfield Atlan,0.0517
+218,Piedmont Triad Intll,255,The William B Hartsfield Atlan,0.0327
+255,The William B Hartsfield Atlan,260,Charleston Afb/Intl,0.0234
+157,Harrisburg Intll,255,The William B Hartsfield Atlan,0.0738
+237,Greenville-Spartanburg,255,The William B Hartsfield Atlan,0.0165
+222,Mc Ghee Tyson,255,The William B Hartsfield Atlan,0.0208
+255,The William B Hartsfield Atlan,322,Cyril E King,0.1767
+249,Columbia Metropolitan,255,The William B Hartsfield Atlan,0.0171
+255,The William B Hartsfield Atlan,273,Savannah Intll,0.0219
+255,The William B Hartsfield Atlan,298,Daytona Beach Intl,0.046
+240,Huntsville Intl-Carl T Jones F,255,The William B Hartsfield Atlan,0.0152
+255,The William B Hartsfield Atlan,287,Tallahassee Regional,0.031
+255,The William B Hartsfield Atlan,283,"Baton Rouge Metropolitan, Ryan",0.0453
+255,The William B Hartsfield Atlan,286,Pensacola Regional,0.0334
+255,The William B Hartsfield Atlan,271,Jackson Intll,0.0315
+192,Blue Grass,255,The William B Hartsfield Atlan,0.042
+255,The William B Hartsfield Atlan,281,Mobile Regional,0.0342
+255,The William B Hartsfield Atlan,300,Melbourne Intll,0.0564
+137,Fort Wayne Intll,255,The William B Hartsfield Atlan,0.0702
+255,The William B Hartsfield Atlan,267,Shreveport Regional,0.0493
+127,Toledo Express,255,The William B Hartsfield Atlan,0.076
+234,Lovell Field,255,The William B Hartsfield Atlan,0.0139
+223,Asheville Regional,255,The William B Hartsfield Atlan,0.0196
+132,Wilkes-Barre/Scranton Intl,255,The William B Hartsfield Atlan,0.0858
+255,The William B Hartsfield Atlan,295,Gainesville Regional,0.0394
+215,Tri-Cities Regional Tn/Va,255,The William B Hartsfield Atlan,0.0289
+255,The William B Hartsfield Atlan,272,Dannelly Field,0.0163
+129,Stewart Int'l,255,The William B Hartsfield Atlan,0.0917
+255,The William B Hartsfield Atlan,265,Columbus Metropolitan,0.0111
+255,The William B Hartsfield Atlan,266,Monroe Regional,0.0403
+255,The William B Hartsfield Atlan,289,Panama City-Bay Co Intl,0.0334
+184,Gunnison County,255,The William B Hartsfield Atlan,0.1237
+118,Chicago O'hare Intl,248,Los Angeles Intl,0.1733
+201,San Francisco Intl,248,Los Angeles Intl,0.0406
+248,Los Angeles Intl,311,Miami Intl,0.2091
+248,Los Angeles Intl,258,Phoenix Sky Harbor Intl,0.0329
+182,Lambert-St Louis Intl,248,Los Angeles Intl,0.15
+67,Minneapolis-St Paul Intl/Wold-,248,Los Angeles Intl,0.1655
+248,Los Angeles Intl,299,Orlando Intl,0.1961
+152,Pittsburgh Intll,248,Los Angeles Intl,0.2042
+162,Philadelphia Intl,248,Los Angeles Intl,0.227
+47,Seattle-Tacoma Intl,248,Los Angeles Intl,0.1305
+144,Salt Lake City Intl,248,Los Angeles Intl,0.0731
+248,Los Angeles Intl,263,San Diego Intl-Lindbergh Fld,0.0131
+248,Los Angeles Intl,301,Tampa Intl,0.1914
+232,Memphis Intl,248,Los Angeles Intl,0.1451
+172,Kansas City Intl,248,Los Angeles Intl,0.131
+248,Los Angeles Intl,292,New Orleans Intl/Moisant Fld/,0.1482
+203,San Jose Intll,248,Los Angeles Intl,0.0373
+65,Portland Intl,248,Los Angeles Intl,0.1133
+197,Metropolitan Oakland Intl,248,Los Angeles Intl,0.041
+248,Los Angeles Intl,253,John Wayne Airport-Orange Coun,0.0037
+248,Los Angeles Intl,316,Kahului,0.2303
+94,General Mitchell Intll,248,Los Angeles Intl,0.1776
+183,Sacramento Metropolitan,248,Los Angeles Intl,0.0483
+245,Burbank-Glendale-Pasadena,248,Los Angeles Intl,0.0025
+169,Reno/Tahoe Intll,248,Los Angeles Intl,0.0536
+248,Los Angeles Intl,274,Tucson Intl,0.0418
+248,Los Angeles Intl,250,Palm Springs Regional,0.0097
+242,Santa Barbara Muni,248,Los Angeles Intl,0.0087
+214,Monterey Peninsula,248,Los Angeles Intl,0.0308
+248,Los Angeles Intl,331,Pago Pago Intl,0.5326
+244,Oxnard,248,Los Angeles Intl,0.0048
+168,Eagle County Regional,248,Los Angeles Intl,0.08
+182,Lambert-St Louis Intl,201,San Francisco Intl,0.1634
+144,Salt Lake City Intl,201,San Francisco Intl,0.0609
+201,San Francisco Intl,203,San Jose Intll,0.0033
+197,Metropolitan Oakland Intl,201,San Francisco Intl,0.0011
+201,San Francisco Intl,253,John Wayne Airport-Orange Coun,0.0441
+183,Sacramento Metropolitan,201,San Francisco Intl,0.011
+178,Lake Tahoe,201,San Francisco Intl,0.0171
+185,Sonoma County,201,San Francisco Intl,0.0088
+201,San Francisco Intl,236,Santa Maria Pub/Capt G Allan H,0.0278
+118,Chicago O'hare Intl,150,John F Kennedy Intl,0.073
+150,John F Kennedy Intl,248,Los Angeles Intl,0.236
+150,John F Kennedy Intl,201,San Francisco Intl,0.2491
+150,John F Kennedy Intl,311,Miami Intl,0.1456
+146,La Guardia,150,John F Kennedy Intl,0.0014
+150,John F Kennedy Intl,258,Phoenix Sky Harbor Intl,0.2065
+150,John F Kennedy Intl,182,Lambert-St Louis Intl,0.0863
+67,Minneapolis-St Paul Intl/Wold-,150,John F Kennedy Intl,0.1069
+150,John F Kennedy Intl,219,Mc Carran Intl,0.2151
+150,John F Kennedy Intl,299,Orlando Intl,0.1227
+150,John F Kennedy Intl,152,Pittsburgh Intll,0.0328
+150,John F Kennedy Intl,162,Philadelphia Intl,0.0104
+47,Seattle-Tacoma Intl,150,John F Kennedy Intl,0.2555
+144,Salt Lake City Intl,150,John F Kennedy Intl,0.1945
+150,John F Kennedy Intl,263,San Diego Intl-Lindbergh Fld,0.2335
+150,John F Kennedy Intl,301,Tampa Intl,0.1289
+150,John F Kennedy Intl,221,Raleigh-Durham Intll,0.0522
+150,John F Kennedy Intl,321,Luis Munoz Marin Intl,0.2158
+150,John F Kennedy Intl,292,New Orleans Intl/Moisant Fld/,0.1318
+150,John F Kennedy Intl,306,Palm Beach Intl,0.1371
+150,John F Kennedy Intl,212,Norfolk Intl,0.0379
+92,Syracuse Hancock Intl,150,John F Kennedy Intl,0.0264
+91,Greater Rochester Intl,150,John F Kennedy Intl,0.0309
+150,John F Kennedy Intl,202,Richmond Intll,0.0349
+150,John F Kennedy Intl,322,Cyril E King,0.2178
+150,John F Kennedy Intl,324,Mercedita,0.2193
+118,Chicago O'hare Intl,166,Stapleton Intl,0.089
+166,Stapleton Intl,261,Dallas/Fort Worth Intl,0.077
+166,Stapleton Intl,248,Los Angeles Intl,0.0886
+166,Stapleton Intl,201,San Francisco Intl,0.0914
+150,John F Kennedy Intl,166,Stapleton Intl,0.1586
+166,Stapleton Intl,311,Miami Intl,0.1832
+146,La Guardia,166,Stapleton Intl,0.1583
+147,Newark Intl,166,Stapleton Intl,0.1567
+166,Stapleton Intl,258,Phoenix Sky Harbor Intl,0.0706
+112,Detroit Metropolitan Wayne Cou,166,Stapleton Intl,0.1121
+166,Stapleton Intl,313,Honolulu Intl,0.3226
+166,Stapleton Intl,182,Lambert-St Louis Intl,0.0746
+67,Minneapolis-St Paul Intl/Wold-,166,Stapleton Intl,0.077
+166,Stapleton Intl,219,Mc Carran Intl,0.0631
+166,Stapleton Intl,299,Orlando Intl,0.1618
+152,Pittsburgh Intll,166,Stapleton Intl,0.1258
+166,Stapleton Intl,293,Houston Intercontinental,0.1055
+162,Philadelphia Intl,166,Stapleton Intl,0.151
+47,Seattle-Tacoma Intl,166,Stapleton Intl,0.115
+144,Salt Lake City Intl,166,Stapleton Intl,0.0374
+166,Stapleton Intl,263,San Diego Intl-Lindbergh Fld,0.0919
+166,Stapleton Intl,301,Tampa Intl,0.1603
+166,Stapleton Intl,177,Washington Dulles Intl,0.1399
+166,Stapleton Intl,232,Memphis Intl,0.0883
+166,Stapleton Intl,296,William P Hobby,0.1085
+123,Chicago Midway,166,Stapleton Intl,0.0894
+166,Stapleton Intl,172,Kansas City Intl,0.052
+166,Stapleton Intl,292,New Orleans Intl/Moisant Fld/,0.1196
+166,Stapleton Intl,203,San Jose Intll,0.0898
+65,Portland Intl,166,Stapleton Intl,0.1059
+166,Stapleton Intl,167,Indianapolis Intl,0.0947
+166,Stapleton Intl,197,Metropolitan Oakland Intl,0.0905
+166,Stapleton Intl,297,San Antonio Intl,0.1032
+166,Stapleton Intl,246,Ontario Intl,0.0847
+166,Stapleton Intl,253,John Wayne Airport-Orange Coun,0.0881
+94,General Mitchell Intll,166,Stapleton Intl,0.0917
+166,Stapleton Intl,183,Sacramento Metropolitan,0.0857
+166,Stapleton Intl,276,El Paso Intl,0.0766
+166,Stapleton Intl,225,Will Rogers World,0.056
+166,Stapleton Intl,169,Reno/Tahoe Intll,0.0758
+166,Stapleton Intl,216,Tulsa Intl,0.0572
+166,Stapleton Intl,274,Tucson Intl,0.0794
+133,Eppley Airfield,166,Stapleton Intl,0.0481
+45,Spokane Intl,166,Stapleton Intl,0.0988
+128,Des Moines Intl,166,Stapleton Intl,0.0596
+166,Stapleton Intl,251,Long Beach /Daugherty Field/,0.0883
+166,Stapleton Intl,198,Wichita Mid-Continent,0.0431
+90,Dane County Regional-Truax Fie,166,Stapleton Intl,0.0855
+166,Stapleton Intl,213,Fresno Air Terminal,0.0808
+166,Stapleton Intl,250,Palm Springs Regional,0.0821
+130,Quad-City,166,Stapleton Intl,0.0749
+166,Stapleton Intl,242,Santa Barbara Muni,0.0917
+75,Mahlon Sweet Field,166,Stapleton Intl,0.1021
+140,Lincoln Muni,166,Stapleton Intl,0.0426
+82,Joe Foss Field,166,Stapleton Intl,0.0551
+166,Stapleton Intl,206,Springfield Regional,0.0634
+148,Greater Peoria Regional,166,Stapleton Intl,0.0779
+51,Hector Intll,166,Stapleton Intl,0.0796
+81,Jackson Hole,166,Stapleton Intl,0.0472
+166,Stapleton Intl,175,Walker Field,0.0195
+50,Missoula Intll,166,Stapleton Intl,0.0828
+106,Sioux Gateway,166,Stapleton Intl,0.05
+41,Minot Intl,166,Stapleton Intl,0.0831
+142,Elko Muni-J.C. Harris Field,166,Stapleton Intl,0.0564
+166,Stapleton Intl,184,Gunnison County,0.0158
+153,Yampa Valley,166,Stapleton Intl,0.0137
+166,Stapleton Intl,168,Eagle County Regional,0.0104
+118,Chicago O'hare Intl,311,Miami Intl,0.1594
+201,San Francisco Intl,311,Miami Intl,0.2423
+182,Lambert-St Louis Intl,311,Miami Intl,0.134
+67,Minneapolis-St Paul Intl/Wold-,311,Miami Intl,0.1939
+152,Pittsburgh Intll,311,Miami Intl,0.1404
+162,Philadelphia Intl,311,Miami Intl,0.1369
+47,Seattle-Tacoma Intl,311,Miami Intl,0.2976
+263,San Diego Intl-Lindbergh Fld,311,Miami Intl,0.1993
+301,Tampa Intl,311,Miami Intl,0.0237
+221,Raleigh-Durham Intll,311,Miami Intl,0.0966
+311,Miami Intl,321,Luis Munoz Marin Intl,0.1011
+292,New Orleans Intl/Moisant Fld/,311,Miami Intl,0.0647
+203,San Jose Intll,311,Miami Intl,0.2392
+306,Palm Beach Intl,311,Miami Intl,0.0086
+94,General Mitchell Intll,311,Miami Intl,0.1684
+311,Miami Intl,322,Cyril E King,0.1057
+287,Tallahassee Regional,311,Miami Intl,0.0486
+311,Miami Intl,324,Mercedita,0.1021
+118,Chicago O'hare Intl,146,La Guardia,0.0724
+146,La Guardia,311,Miami Intl,0.1468
+146,La Guardia,182,Lambert-St Louis Intl,0.0862
+67,Minneapolis-St Paul Intl/Wold-,146,La Guardia,0.1061
+146,La Guardia,299,Orlando Intl,0.1238
+146,La Guardia,152,Pittsburgh Intll,0.0325
+146,La Guardia,301,Tampa Intl,0.13
+146,La Guardia,221,Raleigh-Durham Intll,0.0531
+146,La Guardia,232,Memphis Intl,0.0987
+123,Chicago Midway,146,La Guardia,0.0714
+146,La Guardia,172,Kansas City Intl,0.1071
+146,La Guardia,292,New Orleans Intl/Moisant Fld/,0.1326
+146,La Guardia,306,Palm Beach Intl,0.1383
+119,Bradley Intl,146,La Guardia,0.0126
+94,General Mitchell Intll,146,La Guardia,0.0745
+146,La Guardia,307,Southwest Florida Intl,0.1418
+146,La Guardia,212,Norfolk Intl,0.039
+92,Syracuse Hancock Intl,146,La Guardia,0.025
+91,Greater Rochester Intl,146,La Guardia,0.0296
+146,La Guardia,189,Louisville Intl,0.0654
+146,La Guardia,202,Richmond Intll,0.0358
+80,Portland Intl Jetport,146,La Guardia,0.0329
+146,La Guardia,168,Eagle County Regional,0.1686
+109,General Edward Lawrence Logan,118,Chicago O'hare Intl,0.0862
+109,General Edward Lawrence Logan,261,Dallas/Fort Worth Intl,0.1605
+109,General Edward Lawrence Logan,248,Los Angeles Intl,0.2545
+109,General Edward Lawrence Logan,201,San Francisco Intl,0.2655
+109,General Edward Lawrence Logan,150,John F Kennedy Intl,0.0218
+109,General Edward Lawrence Logan,166,Stapleton Intl,0.1744
+109,General Edward Lawrence Logan,311,Miami Intl,0.1652
+109,General Edward Lawrence Logan,146,La Guardia,0.0211
+109,General Edward Lawrence Logan,147,Newark Intl,0.0227
+109,General Edward Lawrence Logan,258,Phoenix Sky Harbor Intl,0.2256
+109,General Edward Lawrence Logan,112,Detroit Metropolitan Wayne Cou,0.0629
+109,General Edward Lawrence Logan,182,Lambert-St Louis Intl,0.1045
+67,Minneapolis-St Paul Intl/Wold-,109,General Edward Lawrence Logan,0.1156
+109,General Edward Lawrence Logan,219,Mc Carran Intl,0.2328
+109,General Edward Lawrence Logan,299,Orlando Intl,0.1431
+109,General Edward Lawrence Logan,152,Pittsburgh Intll,0.0503
+109,General Edward Lawrence Logan,293,Houston Intercontinental,0.1714
+109,General Edward Lawrence Logan,162,Philadelphia Intl,0.0321
+47,Seattle-Tacoma Intl,109,General Edward Lawrence Logan,0.2658
+109,General Edward Lawrence Logan,230,Charlotte/Douglas Intl,0.0851
+109,General Edward Lawrence Logan,179,Washington National,0.0455
+109,General Edward Lawrence Logan,144,Salt Lake City Intl,0.2092
+109,General Edward Lawrence Logan,301,Tampa Intl,0.1495
+109,General Edward Lawrence Logan,174,Baltimore-Washington Intl,0.042
+109,General Edward Lawrence Logan,177,Washington Dulles Intl,0.0464
+109,General Edward Lawrence Logan,221,Raleigh-Durham Intll,0.0736
+109,General Edward Lawrence Logan,176,Cincinnati/Northern Kentucky I,0.0765
+109,General Edward Lawrence Logan,310,Fort Lauderdale/Hollywood Intl,0.1625
+109,General Edward Lawrence Logan,232,Memphis Intl,0.1193
+109,General Edward Lawrence Logan,131,Cleveland-Hopkins Intl,0.056
+109,General Edward Lawrence Logan,321,Luis Munoz Marin Intl,0.23
+109,General Edward Lawrence Logan,203,San Jose Intll,0.2638
+109,General Edward Lawrence Logan,167,Indianapolis Intl,0.0819
+109,General Edward Lawrence Logan,306,Palm Beach Intl,0.1568
+94,General Mitchell Intll,109,General Edward Lawrence Logan,0.0863
+109,General Edward Lawrence Logan,161,James M Cox Dayton Intl,0.0713
+109,General Edward Lawrence Logan,159,Port Columbus Intl,0.0647
+109,General Edward Lawrence Logan,307,Southwest Florida Intl,0.1608
+95,Greater Buffalo Intl,109,General Edward Lawrence Logan,0.0398
+109,General Edward Lawrence Logan,212,Norfolk Intl,0.0586
+92,Syracuse Hancock Intl,109,General Edward Lawrence Logan,0.027
+91,Greater Rochester Intl,109,General Edward Lawrence Logan,0.0348
+109,General Edward Lawrence Logan,202,Richmond Intll,0.0565
+80,Portland Intl Jetport,109,General Edward Lawrence Logan,0.0128
+109,General Edward Lawrence Logan,273,Savannah Intll,0.1108
+118,Chicago O'hare Intl,147,Newark Intl,0.0711
+147,Newark Intl,248,Los Angeles Intl,0.2344
+147,Newark Intl,201,San Francisco Intl,0.2472
+147,Newark Intl,150,John F Kennedy Intl,0.002
+147,Newark Intl,311,Miami Intl,0.1457
+146,La Guardia,147,Newark Intl,0.0017
+147,Newark Intl,258,Phoenix Sky Harbor Intl,0.2049
+147,Newark Intl,182,Lambert-St Louis Intl,0.0845
+67,Minneapolis-St Paul Intl/Wold-,147,Newark Intl,0.105
+147,Newark Intl,219,Mc Carran Intl,0.2134
+147,Newark Intl,299,Orlando Intl,0.1226
+147,Newark Intl,152,Pittsburgh Intll,0.031
+147,Newark Intl,293,Houston Intercontinental,0.1487
+47,Seattle-Tacoma Intl,147,Newark Intl,0.2535
+147,Newark Intl,301,Tampa Intl,0.1288
+147,Newark Intl,177,Washington Dulles Intl,0.0237
+147,Newark Intl,221,Raleigh-Durham Intll,0.0517
+147,Newark Intl,310,Fort Lauderdale/Hollywood Intl,0.143
+147,Newark Intl,232,Memphis Intl,0.097
+147,Newark Intl,321,Luis Munoz Marin Intl,0.2166
+123,Chicago Midway,147,Newark Intl,0.07
+147,Newark Intl,172,Kansas City Intl,0.1055
+147,Newark Intl,292,New Orleans Intl/Moisant Fld/,0.131
+147,Newark Intl,167,Indianapolis Intl,0.0625
+147,Newark Intl,306,Palm Beach Intl,0.1372
+94,General Mitchell Intll,147,Newark Intl,0.0733
+147,Newark Intl,307,Southwest Florida Intl,0.1406
+147,Newark Intl,284,Jacksonville Intl,0.1047
+147,Newark Intl,212,Norfolk Intl,0.0378
+92,Syracuse Hancock Intl,147,Newark Intl,0.0251
+91,Greater Rochester Intl,147,Newark Intl,0.0293
+125,Theodore Francis Green State,147,Newark Intl,0.0171
+147,Newark Intl,305,Sarasota/Bradenton Intl,0.134
+147,Newark Intl,202,Richmond Intll,0.0344
+147,Newark Intl,218,Piedmont Triad Intll,0.0528
+99,Kent County Intl,147,Newark Intl,0.0616
+147,Newark Intl,322,Cyril E King,0.2187
+80,Portland Intl Jetport,147,Newark Intl,0.0344
+143,Long Island Mac Arthur,147,Newark Intl,0.0055
+147,Newark Intl,273,Savannah Intll,0.0893
+96,Manchester,147,Newark Intl,0.0255
+147,Newark Intl,300,Melbourne Intll,0.1247
+147,Newark Intl,153,Yampa Valley,0.1684
+147,Newark Intl,324,Mercedita,0.2201
+201,San Francisco Intl,258,Phoenix Sky Harbor Intl,0.0662
+182,Lambert-St Louis Intl,258,Phoenix Sky Harbor Intl,0.1214
+152,Pittsburgh Intll,258,Phoenix Sky Harbor Intl,0.1754
+47,Seattle-Tacoma Intl,258,Phoenix Sky Harbor Intl,0.1437
+144,Salt Lake City Intl,258,Phoenix Sky Harbor Intl,0.0702
+258,Phoenix Sky Harbor Intl,263,San Diego Intl-Lindbergh Fld,0.0271
+203,San Jose Intll,258,Phoenix Sky Harbor Intl,0.0629
+258,Phoenix Sky Harbor Intl,297,San Antonio Intl,0.0784
+253,John Wayne Airport-Orange Coun,258,Phoenix Sky Harbor Intl,0.0299
+183,Sacramento Metropolitan,258,Phoenix Sky Harbor Intl,0.0701
+169,Reno/Tahoe Intll,258,Phoenix Sky Harbor Intl,0.0701
+216,Tulsa Intl,258,Phoenix Sky Harbor Intl,0.0862
+258,Phoenix Sky Harbor Intl,274,Tucson Intl,0.0137
+250,Palm Springs Regional,258,Phoenix Sky Harbor Intl,0.0232
+258,Phoenix Sky Harbor Intl,264,Yuma Mcas/Yuma Intl,0.0151
+112,Detroit Metropolitan Wayne Cou,118,Chicago O'hare Intl,0.0233
+112,Detroit Metropolitan Wayne Cou,248,Los Angeles Intl,0.1952
+112,Detroit Metropolitan Wayne Cou,201,San Francisco Intl,0.2035
+112,Detroit Metropolitan Wayne Cou,150,John F Kennedy Intl,0.051
+112,Detroit Metropolitan Wayne Cou,311,Miami Intl,0.1577
+112,Detroit Metropolitan Wayne Cou,146,La Guardia,0.0502
+112,Detroit Metropolitan Wayne Cou,147,Newark Intl,0.049
+112,Detroit Metropolitan Wayne Cou,258,Phoenix Sky Harbor Intl,0.1684
+112,Detroit Metropolitan Wayne Cou,182,Lambert-St Louis Intl,0.0487
+67,Minneapolis-St Paul Intl/Wold-,112,Detroit Metropolitan Wayne Cou,0.0563
+112,Detroit Metropolitan Wayne Cou,219,Mc Carran Intl,0.1723
+112,Detroit Metropolitan Wayne Cou,299,Orlando Intl,0.1321
+112,Detroit Metropolitan Wayne Cou,152,Pittsburgh Intll,0.0229
+112,Detroit Metropolitan Wayne Cou,293,Houston Intercontinental,0.1319
+112,Detroit Metropolitan Wayne Cou,162,Philadelphia Intl,0.047
+47,Seattle-Tacoma Intl,112,Detroit Metropolitan Wayne Cou,0.2046
+112,Detroit Metropolitan Wayne Cou,144,Salt Lake City Intl,0.1464
+112,Detroit Metropolitan Wayne Cou,263,San Diego Intl-Lindbergh Fld,0.1947
+112,Detroit Metropolitan Wayne Cou,301,Tampa Intl,0.1362
+112,Detroit Metropolitan Wayne Cou,177,Washington Dulles Intl,0.0434
+112,Detroit Metropolitan Wayne Cou,221,Raleigh-Durham Intll,0.0649
+112,Detroit Metropolitan Wayne Cou,310,Fort Lauderdale/Hollywood Intl,0.1552
+112,Detroit Metropolitan Wayne Cou,232,Memphis Intl,0.0764
+112,Detroit Metropolitan Wayne Cou,296,William P Hobby,0.1346
+112,Detroit Metropolitan Wayne Cou,123,Chicago Midway,0.0228
+112,Detroit Metropolitan Wayne Cou,172,Kansas City Intl,0.0643
+112,Detroit Metropolitan Wayne Cou,292,New Orleans Intl/Moisant Fld/,0.122
+112,Detroit Metropolitan Wayne Cou,203,San Jose Intll,0.2019
+65,Portland Intl,112,Detroit Metropolitan Wayne Cou,0.2025
+112,Detroit Metropolitan Wayne Cou,167,Indianapolis Intl,0.0282
+112,Detroit Metropolitan Wayne Cou,306,Palm Beach Intl,0.1493
+112,Detroit Metropolitan Wayne Cou,253,John Wayne Airport-Orange Coun,0.1938
+94,General Mitchell Intll,112,Detroit Metropolitan Wayne Cou,0.0242
+112,Detroit Metropolitan Wayne Cou,307,Southwest Florida Intl,0.15
+112,Detroit Metropolitan Wayne Cou,212,Norfolk Intl,0.0626
+92,Syracuse Hancock Intl,112,Detroit Metropolitan Wayne Cou,0.0379
+91,Greater Rochester Intl,112,Detroit Metropolitan Wayne Cou,0.0302
+112,Detroit Metropolitan Wayne Cou,125,Theodore Francis Green State,0.0609
+112,Detroit Metropolitan Wayne Cou,189,Louisville Intl,0.0405
+112,Detroit Metropolitan Wayne Cou,305,Sarasota/Bradenton Intl,0.1417
+112,Detroit Metropolitan Wayne Cou,202,Richmond Intll,0.0545
+99,Kent County Intl,112,Detroit Metropolitan Wayne Cou,0.0128
+112,Detroit Metropolitan Wayne Cou,157,Harrisburg Intll,0.0387
+90,Dane County Regional-Truax Fie,112,Detroit Metropolitan Wayne Cou,0.0317
+112,Detroit Metropolitan Wayne Cou,126,Michiana Rgnl Transportation C,0.0159
+112,Detroit Metropolitan Wayne Cou,136,Westchester County,0.0503
+112,Detroit Metropolitan Wayne Cou,137,Fort Wayne Intll,0.0151
+71,Austin Straubel Intll,112,Detroit Metropolitan Wayne Cou,0.0326
+100,Capital City,112,Detroit Metropolitan Wayne Cou,0.0083
+84,Mbs Intll,112,Detroit Metropolitan Wayne Cou,0.0131
+70,Cherry Capital,112,Detroit Metropolitan Wayne Cou,0.0267
+118,Chicago O'hare Intl,313,Honolulu Intl,0.4076
+248,Los Angeles Intl,313,Honolulu Intl,0.2347
+201,San Francisco Intl,313,Honolulu Intl,0.2389
+258,Phoenix Sky Harbor Intl,313,Honolulu Intl,0.2609
+182,Lambert-St Louis Intl,313,Honolulu Intl,0.3823
+67,Minneapolis-St Paul Intl/Wold-,313,Honolulu Intl,0.3992
+219,Mc Carran Intl,313,Honolulu Intl,0.2595
+47,Seattle-Tacoma Intl,313,Honolulu Intl,0.3086
+263,San Diego Intl-Lindbergh Fld,313,Honolulu Intl,0.2344
+246,Ontario Intl,313,Honolulu Intl,0.2387
+313,Honolulu Intl,316,Kahului,0.0086
+312,Lihue,313,Honolulu Intl,0.0096
+313,Honolulu Intl,329,Guam Intll,0.3011
+313,Honolulu Intl,318,Keahole-Kona Intll,0.0179
+313,Honolulu Intl,319,Hilo Intll,0.0212
+313,Honolulu Intl,314,Molokai,0.0045
+313,Honolulu Intl,331,Pago Pago Intl,0.3468
+313,Honolulu Intl,317,Lanai,0.0071
+313,Honolulu Intl,326,Johnston Atoll,0.0736
+313,Honolulu Intl,315,Kapalua,0.0072
+182,Lambert-St Louis Intl,301,Tampa Intl,0.1105
+182,Lambert-St Louis Intl,216,Tulsa Intl,0.0373
+182,Lambert-St Louis Intl,274,Tucson Intl,0.1225
+92,Syracuse Hancock Intl,182,Lambert-St Louis Intl,0.0837
+182,Lambert-St Louis Intl,222,Mc Ghee Tyson,0.0429
+106,Sioux Gateway,182,Lambert-St Louis Intl,0.0465
+160,Quincy Muni Baldwin Field,182,Lambert-St Louis Intl,0.0122
+182,Lambert-St Louis Intl,196,Forney Aaf,0.0133
+67,Minneapolis-St Paul Intl/Wold-,118,Chicago O'hare Intl,0.0388
+67,Minneapolis-St Paul Intl/Wold-,201,San Francisco Intl,0.1639
+67,Minneapolis-St Paul Intl/Wold-,258,Phoenix Sky Harbor Intl,0.1454
+67,Minneapolis-St Paul Intl/Wold-,182,Lambert-St Louis Intl,0.0604
+67,Minneapolis-St Paul Intl/Wold-,152,Pittsburgh Intll,0.0783
+67,Minneapolis-St Paul Intl/Wold-,162,Philadelphia Intl,0.1033
+47,Seattle-Tacoma Intl,67,Minneapolis-St Paul Intl/Wold-,0.1502
+67,Minneapolis-St Paul Intl/Wold-,144,Salt Lake City Intl,0.1033
+67,Minneapolis-St Paul Intl/Wold-,263,San Diego Intl-Lindbergh Fld,0.1685
+67,Minneapolis-St Paul Intl/Wold-,301,Tampa Intl,0.1705
+67,Minneapolis-St Paul Intl/Wold-,292,New Orleans Intl/Moisant Fld/,0.1431
+67,Minneapolis-St Paul Intl/Wold-,203,San Jose Intll,0.163
+65,Portland Intl,67,Minneapolis-St Paul Intl/Wold-,0.1498
+67,Minneapolis-St Paul Intl/Wold-,197,Metropolitan Oakland Intl,0.1629
+67,Minneapolis-St Paul Intl/Wold-,246,Ontario Intl,0.1617
+67,Minneapolis-St Paul Intl/Wold-,253,John Wayne Airport-Orange Coun,0.1651
+67,Minneapolis-St Paul Intl/Wold-,183,Sacramento Metropolitan,0.1562
+67,Minneapolis-St Paul Intl/Wold-,307,Southwest Florida Intl,0.1847
+67,Minneapolis-St Paul Intl/Wold-,274,Tucson Intl,0.1518
+67,Minneapolis-St Paul Intl/Wold-,189,Louisville Intl,0.0745
+67,Minneapolis-St Paul Intl/Wold-,133,Eppley Airfield,0.0368
+67,Minneapolis-St Paul Intl/Wold-,76,Rapid City Regional,0.0508
+67,Minneapolis-St Paul Intl/Wold-,78,Rochester Intll,0.01
+43,Grand Forks Afb,67,Minneapolis-St Paul Intl/Wold-,0.0364
+118,Chicago O'hare Intl,219,Mc Carran Intl,0.1498
+219,Mc Carran Intl,248,Los Angeles Intl,0.0263
+201,San Francisco Intl,219,Mc Carran Intl,0.0395
+219,Mc Carran Intl,258,Phoenix Sky Harbor Intl,0.0299
+182,Lambert-St Louis Intl,219,Mc Carran Intl,0.1288
+67,Minneapolis-St Paul Intl/Wold-,219,Mc Carran Intl,0.1399
+219,Mc Carran Intl,299,Orlando Intl,0.1873
+152,Pittsburgh Intll,219,Mc Carran Intl,0.1828
+162,Philadelphia Intl,219,Mc Carran Intl,0.2065
+47,Seattle-Tacoma Intl,219,Mc Carran Intl,0.1144
+144,Salt Lake City Intl,219,Mc Carran Intl,0.0477
+219,Mc Carran Intl,263,San Diego Intl-Lindbergh Fld,0.0336
+219,Mc Carran Intl,301,Tampa Intl,0.1834
+219,Mc Carran Intl,232,Memphis Intl,0.1286
+123,Chicago Midway,219,Mc Carran Intl,0.1499
+172,Kansas City Intl,219,Mc Carran Intl,0.1085
+203,San Jose Intll,219,Mc Carran Intl,0.0366
+65,Portland Intl,219,Mc Carran Intl,0.0984
+197,Metropolitan Oakland Intl,219,Mc Carran Intl,0.0392
+219,Mc Carran Intl,297,San Antonio Intl,0.1056
+219,Mc Carran Intl,246,Ontario Intl,0.023
+219,Mc Carran Intl,253,John Wayne Airport-Orange Coun,0.0268
+94,General Mitchell Intll,219,Mc Carran Intl,0.1535
+183,Sacramento Metropolitan,219,Mc Carran Intl,0.0412
+169,Reno/Tahoe Intll,219,Mc Carran Intl,0.0402
+219,Mc Carran Intl,274,Tucson Intl,0.0436
+133,Eppley Airfield,219,Mc Carran Intl,0.1101
+219,Mc Carran Intl,250,Palm Springs Regional,0.0227
+118,Chicago O'hare Intl,299,Orlando Intl,0.1337
+201,San Francisco Intl,299,Orlando Intl,0.2268
+299,Orlando Intl,311,Miami Intl,0.0257
+258,Phoenix Sky Harbor Intl,299,Orlando Intl,0.1635
+182,Lambert-St Louis Intl,299,Orlando Intl,0.1088
+67,Minneapolis-St Paul Intl/Wold-,299,Orlando Intl,0.1685
+152,Pittsburgh Intll,299,Orlando Intl,0.1153
+162,Philadelphia Intl,299,Orlando Intl,0.1136
+144,Salt Lake City Intl,299,Orlando Intl,0.1958
+299,Orlando Intl,301,Tampa Intl,0.0076
+221,Raleigh-Durham Intll,299,Orlando Intl,0.0722
+232,Memphis Intl,299,Orlando Intl,0.0771
+299,Orlando Intl,321,Luis Munoz Marin Intl,0.1232
+123,Chicago Midway,299,Orlando Intl,0.1317
+292,New Orleans Intl/Moisant Fld/,299,Orlando Intl,0.048
+299,Orlando Intl,306,Palm Beach Intl,0.0178
+94,General Mitchell Intll,299,Orlando Intl,0.1427
+299,Orlando Intl,307,Southwest Florida Intl,0.0182
+92,Syracuse Hancock Intl,299,Orlando Intl,0.1427
+125,Theodore Francis Green State,299,Orlando Intl,0.1366
+299,Orlando Intl,305,Sarasota/Bradenton Intl,0.0118
+299,Orlando Intl,322,Cyril E King,0.1274
+273,Savannah Intll,299,Orlando Intl,0.0353
+287,Tallahassee Regional,299,Orlando Intl,0.0244
+286,Pensacola Regional,299,Orlando Intl,0.0357
+152,Pittsburgh Intll,201,San Francisco Intl,0.2163
+152,Pittsburgh Intll,182,Lambert-St Louis Intl,0.0542
+47,Seattle-Tacoma Intl,152,Pittsburgh Intll,0.2244
+152,Pittsburgh Intll,263,San Diego Intl-Lindbergh Fld,0.2023
+152,Pittsburgh Intll,301,Tampa Intl,0.1202
+152,Pittsburgh Intll,221,Raleigh-Durham Intll,0.0447
+152,Pittsburgh Intll,297,San Antonio Intl,0.14
+152,Pittsburgh Intll,183,Sacramento Metropolitan,0.2114
+152,Pittsburgh Intll,307,Southwest Florida Intl,0.1335
+92,Syracuse Hancock Intl,152,Pittsburgh Intll,0.0326
+91,Greater Rochester Intl,152,Pittsburgh Intll,0.0283
+125,Theodore Francis Green State,152,Pittsburgh Intll,0.0463
+152,Pittsburgh Intll,189,Louisville Intl,0.0357
+152,Pittsburgh Intll,305,Sarasota/Bradenton Intl,0.1257
+152,Pittsburgh Intll,202,Richmond Intll,0.0321
+152,Pittsburgh Intll,222,Mc Ghee Tyson,0.0486
+80,Portland Intl Jetport,152,Pittsburgh Intll,0.0588
+126,Michiana Rgnl Transportation C,152,Pittsburgh Intll,0.0331
+127,Toledo Express,152,Pittsburgh Intll,0.021
+152,Pittsburgh Intll,215,Tri-Cities Regional Tn/Va,0.04
+129,Stewart Int'l,152,Pittsburgh Intll,0.0327
+152,Pittsburgh Intll,156,Mercer County,0.0277
+118,Chicago O'hare Intl,293,Houston Intercontinental,0.1207
+248,Los Angeles Intl,293,Houston Intercontinental,0.1233
+201,San Francisco Intl,293,Houston Intercontinental,0.1558
+293,Houston Intercontinental,311,Miami Intl,0.0865
+146,La Guardia,293,Houston Intercontinental,0.1503
+258,Phoenix Sky Harbor Intl,293,Houston Intercontinental,0.0911
+182,Lambert-St Louis Intl,293,Houston Intercontinental,0.0876
+67,Minneapolis-St Paul Intl/Wold-,293,Houston Intercontinental,0.1428
+219,Mc Carran Intl,293,Houston Intercontinental,0.1165
+293,Houston Intercontinental,299,Orlando Intl,0.073
+152,Pittsburgh Intll,293,Houston Intercontinental,0.1265
+162,Philadelphia Intl,293,Houston Intercontinental,0.1393
+47,Seattle-Tacoma Intl,293,Houston Intercontinental,0.216
+144,Salt Lake City Intl,293,Houston Intercontinental,0.1335
+263,San Diego Intl-Lindbergh Fld,293,Houston Intercontinental,0.1143
+293,Houston Intercontinental,301,Tampa Intl,0.0681
+293,Houston Intercontinental,296,William P Hobby,0.0032
+172,Kansas City Intl,293,Houston Intercontinental,0.0891
+292,New Orleans Intl/Moisant Fld/,293,Houston Intercontinental,0.0259
+203,San Jose Intll,293,Houston Intercontinental,0.1527
+65,Portland Intl,293,Houston Intercontinental,0.2037
+167,Indianapolis Intl,293,Houston Intercontinental,0.1038
+293,Houston Intercontinental,306,Palm Beach Intl,0.0838
+293,Houston Intercontinental,297,San Antonio Intl,0.0165
+246,Ontario Intl,293,Houston Intercontinental,0.1198
+253,John Wayne Airport-Orange Coun,293,Houston Intercontinental,0.12
+183,Sacramento Metropolitan,293,Houston Intercontinental,0.1575
+293,Houston Intercontinental,307,Southwest Florida Intl,0.0766
+225,Will Rogers World,293,Houston Intercontinental,0.053
+216,Tulsa Intl,293,Houston Intercontinental,0.0595
+284,Jacksonville Intl,293,Houston Intercontinental,0.0698
+274,Tucson Intl,293,Houston Intercontinental,0.082
+133,Eppley Airfield,293,Houston Intercontinental,0.1082
+293,Houston Intercontinental,305,Sarasota/Bradenton Intl,0.0696
+286,Pensacola Regional,293,Houston Intercontinental,0.0419
+281,Mobile Regional,293,Houston Intercontinental,0.0368
+293,Houston Intercontinental,309,Mc Allen Miller Intl,0.0393
+290,Lafayette Regional,293,Houston Intercontinental,0.0172
+142,Elko Muni-J.C. Harris Field,293,Houston Intercontinental,0.1469
+162,Philadelphia Intl,201,San Francisco Intl,0.241
+147,Newark Intl,162,Philadelphia Intl,0.0095
+162,Philadelphia Intl,258,Phoenix Sky Harbor Intl,0.1971
+162,Philadelphia Intl,182,Lambert-St Louis Intl,0.0777
+152,Pittsburgh Intll,162,Philadelphia Intl,0.0261
+144,Salt Lake City Intl,162,Philadelphia Intl,0.1873
+162,Philadelphia Intl,301,Tampa Intl,0.1196
+162,Philadelphia Intl,221,Raleigh-Durham Intll,0.0423
+162,Philadelphia Intl,321,Luis Munoz Marin Intl,0.2101
+162,Philadelphia Intl,307,Southwest Florida Intl,0.1317
+92,Syracuse Hancock Intl,162,Philadelphia Intl,0.0312
+91,Greater Rochester Intl,162,Philadelphia Intl,0.0334
+125,Theodore Francis Green State,162,Philadelphia Intl,0.0263
+162,Philadelphia Intl,305,Sarasota/Bradenton Intl,0.1249
+162,Philadelphia Intl,202,Richmond Intll,0.025
+80,Portland Intl Jetport,162,Philadelphia Intl,0.044
+162,Philadelphia Intl,273,Savannah Intll,0.08
+47,Seattle-Tacoma Intl,201,San Francisco Intl,0.0938
+47,Seattle-Tacoma Intl,182,Lambert-St Louis Intl,0.1826
+47,Seattle-Tacoma Intl,144,Salt Lake City Intl,0.0825
+47,Seattle-Tacoma Intl,203,San Jose Intll,0.0963
+47,Seattle-Tacoma Intl,253,John Wayne Airport-Orange Coun,0.1334
+47,Seattle-Tacoma Intl,183,Sacramento Metropolitan,0.0836
+47,Seattle-Tacoma Intl,56,Yakima Air Terminal,0.0122
+47,Seattle-Tacoma Intl,74,Roberts Field,0.031
+47,Seattle-Tacoma Intl,86,Friedman Memorial,0.0555
+118,Chicago O'hare Intl,230,Charlotte/Douglas Intl,0.0737
+230,Charlotte/Douglas Intl,261,Dallas/Fort Worth Intl,0.0849
+230,Charlotte/Douglas Intl,248,Los Angeles Intl,0.1911
+201,San Francisco Intl,230,Charlotte/Douglas Intl,0.2122
+150,John F Kennedy Intl,230,Charlotte/Douglas Intl,0.0634
+166,Stapleton Intl,230,Charlotte/Douglas Intl,0.1295
+230,Charlotte/Douglas Intl,311,Miami Intl,0.0901
+146,La Guardia,230,Charlotte/Douglas Intl,0.0642
+147,Newark Intl,230,Charlotte/Douglas Intl,0.0627
+230,Charlotte/Douglas Intl,258,Phoenix Sky Harbor Intl,0.1591
+112,Detroit Metropolitan Wayne Cou,230,Charlotte/Douglas Intl,0.068
+182,Lambert-St Louis Intl,230,Charlotte/Douglas Intl,0.0586
+67,Minneapolis-St Paul Intl/Wold-,230,Charlotte/Douglas Intl,0.1115
+219,Mc Carran Intl,230,Charlotte/Douglas Intl,0.1744
+230,Charlotte/Douglas Intl,299,Orlando Intl,0.0648
+152,Pittsburgh Intll,230,Charlotte/Douglas Intl,0.0505
+230,Charlotte/Douglas Intl,293,Houston Intercontinental,0.0887
+162,Philadelphia Intl,230,Charlotte/Douglas Intl,0.0532
+47,Seattle-Tacoma Intl,230,Charlotte/Douglas Intl,0.2408
+179,Washington National,230,Charlotte/Douglas Intl,0.0401
+230,Charlotte/Douglas Intl,263,San Diego Intl-Lindbergh Fld,0.186
+230,Charlotte/Douglas Intl,301,Tampa Intl,0.0697
+177,Washington Dulles Intl,230,Charlotte/Douglas Intl,0.0398
+221,Raleigh-Durham Intll,230,Charlotte/Douglas Intl,0.0127
+176,Cincinnati/Northern Kentucky I,230,Charlotte/Douglas Intl,0.0412
+230,Charlotte/Douglas Intl,310,Fort Lauderdale/Hollywood Intl,0.0875
+230,Charlotte/Douglas Intl,232,Memphis Intl,0.046
+230,Charlotte/Douglas Intl,321,Luis Munoz Marin Intl,0.1774
+172,Kansas City Intl,230,Charlotte/Douglas Intl,0.0802
+230,Charlotte/Douglas Intl,292,New Orleans Intl/Moisant Fld/,0.0688
+167,Indianapolis Intl,230,Charlotte/Douglas Intl,0.0509
+230,Charlotte/Douglas Intl,306,Palm Beach Intl,0.0816
+230,Charlotte/Douglas Intl,297,San Antonio Intl,0.1044
+94,General Mitchell Intll,230,Charlotte/Douglas Intl,0.0819
+161,James M Cox Dayton Intl,230,Charlotte/Douglas Intl,0.0478
+159,Port Columbus Intl,230,Charlotte/Douglas Intl,0.0468
+230,Charlotte/Douglas Intl,307,Southwest Florida Intl,0.083
+230,Charlotte/Douglas Intl,284,Jacksonville Intl,0.0453
+212,Norfolk Intl,230,Charlotte/Douglas Intl,0.029
+92,Syracuse Hancock Intl,230,Charlotte/Douglas Intl,0.0793
+91,Greater Rochester Intl,230,Charlotte/Douglas Intl,0.0773
+125,Theodore Francis Green State,230,Charlotte/Douglas Intl,0.0789
+189,Louisville Intl,230,Charlotte/Douglas Intl,0.0374
+230,Charlotte/Douglas Intl,305,Sarasota/Bradenton Intl,0.0751
+230,Charlotte/Douglas Intl,239,Adams Field,0.0576
+202,Richmond Intll,230,Charlotte/Douglas Intl,0.0287
+218,Piedmont Triad Intll,230,Charlotte/Douglas Intl,0.0099
+157,Harrisburg Intll,230,Charlotte/Douglas Intl,0.0521
+230,Charlotte/Douglas Intl,237,Greenville-Spartanburg,0.0071
+222,Mc Ghee Tyson,230,Charlotte/Douglas Intl,0.0165
+143,Long Island Mac Arthur,230,Charlotte/Douglas Intl,0.0666
+230,Charlotte/Douglas Intl,273,Savannah Intll,0.0295
+230,Charlotte/Douglas Intl,298,Daytona Beach Intl,0.0577
+230,Charlotte/Douglas Intl,240,Huntsville Intl-Carl T Jones F,0.0301
+230,Charlotte/Douglas Intl,287,Tallahassee Regional,0.0491
+230,Charlotte/Douglas Intl,286,Pensacola Regional,0.0553
+230,Charlotte/Douglas Intl,281,Mobile Regional,0.0569
+230,Charlotte/Douglas Intl,300,Melbourne Intll,0.068
+204,Roanoke Regional/Woodrum Field,230,Charlotte/Douglas Intl,0.0208
+230,Charlotte/Douglas Intl,252,Myrtle Beach Intl,0.0179
+186,Yeager,230,Charlotte/Douglas Intl,0.0304
+230,Charlotte/Douglas Intl,295,Gainesville Regional,0.0532
+215,Tri-Cities Regional Tn/Va,230,Charlotte/Douglas Intl,0.0141
+230,Charlotte/Douglas Intl,272,Dannelly Field,0.0393
+230,Charlotte/Douglas Intl,235,Fayetteville Regional/Grannis,0.0108
+230,Charlotte/Douglas Intl,243,New Hanover Intll,0.0179
+230,Charlotte/Douglas Intl,238,Albert J Ellis,0.0174
+227,Kinston Regional Jetport At St,230,Charlotte/Douglas Intl,0.017
+118,Chicago O'hare Intl,179,Washington National,0.0628
+179,Washington National,261,Dallas/Fort Worth Intl,0.1167
+150,John F Kennedy Intl,179,Washington National,0.0238
+179,Washington National,311,Miami Intl,0.1259
+146,La Guardia,179,Washington National,0.0244
+147,Newark Intl,179,Washington National,0.0229
+112,Detroit Metropolitan Wayne Cou,179,Washington National,0.0454
+179,Washington National,182,Lambert-St Louis Intl,0.0678
+67,Minneapolis-St Paul Intl/Wold-,179,Washington National,0.1005
+179,Washington National,299,Orlando Intl,0.1019
+152,Pittsburgh Intll,179,Washington National,0.0225
+179,Washington National,293,Houston Intercontinental,0.126
+162,Philadelphia Intl,179,Washington National,0.0134
+179,Washington National,301,Tampa Intl,0.1077
+179,Washington National,221,Raleigh-Durham Intll,0.0299
+179,Washington National,310,Fort Lauderdale/Hollywood Intl,0.1232
+179,Washington National,232,Memphis Intl,0.0753
+123,Chicago Midway,179,Washington National,0.0613
+172,Kansas City Intl,179,Washington National,0.0901
+179,Washington National,292,New Orleans Intl/Moisant Fld/,0.1082
+167,Indianapolis Intl,179,Washington National,0.0478
+179,Washington National,306,Palm Beach Intl,0.1173
+94,General Mitchell Intll,179,Washington National,0.0677
+179,Washington National,307,Southwest Florida Intl,0.1201
+92,Syracuse Hancock Intl,179,Washington National,0.0409
+91,Greater Rochester Intl,179,Washington National,0.0408
+125,Theodore Francis Green State,179,Washington National,0.0396
+179,Washington National,189,Louisville Intl,0.0448
+179,Washington National,218,Piedmont Triad Intll,0.0302
+144,Salt Lake City Intl,182,Lambert-St Louis Intl,0.1118
+144,Salt Lake City Intl,253,John Wayne Airport-Orange Coun,0.0742
+144,Salt Lake City Intl,183,Sacramento Metropolitan,0.0529
+144,Salt Lake City Intl,216,Tulsa Intl,0.0929
+144,Salt Lake City Intl,274,Tucson Intl,0.083
+86,Friedman Memorial,144,Salt Lake City Intl,0.0286
+104,Twin Falls-Sun Valley Regional,144,Salt Lake City Intl,0.0206
+201,San Francisco Intl,263,San Diego Intl-Lindbergh Fld,0.0536
+182,Lambert-St Louis Intl,263,San Diego Intl-Lindbergh Fld,0.1482
+47,Seattle-Tacoma Intl,263,San Diego Intl-Lindbergh Fld,0.1429
+144,Salt Lake City Intl,263,San Diego Intl-Lindbergh Fld,0.0813
+203,San Jose Intll,263,San Diego Intl-Lindbergh Fld,0.0504
+253,John Wayne Airport-Orange Coun,263,San Diego Intl-Lindbergh Fld,0.0097
+183,Sacramento Metropolitan,263,San Diego Intl-Lindbergh Fld,0.0613
+250,Palm Springs Regional,263,San Diego Intl-Lindbergh Fld,0.0109
+118,Chicago O'hare Intl,174,Baltimore-Washington Intl,0.0632
+174,Baltimore-Washington Intl,261,Dallas/Fort Worth Intl,0.1198
+174,Baltimore-Washington Intl,248,Los Angeles Intl,0.2183
+174,Baltimore-Washington Intl,201,San Francisco Intl,0.2332
+150,John F Kennedy Intl,174,Baltimore-Washington Intl,0.0203
+166,Stapleton Intl,174,Baltimore-Washington Intl,0.1438
+174,Baltimore-Washington Intl,311,Miami Intl,0.1291
+146,La Guardia,174,Baltimore-Washington Intl,0.0209
+147,Newark Intl,174,Baltimore-Washington Intl,0.0193
+174,Baltimore-Washington Intl,258,Phoenix Sky Harbor Intl,0.1882
+112,Detroit Metropolitan Wayne Cou,174,Baltimore-Washington Intl,0.0448
+174,Baltimore-Washington Intl,182,Lambert-St Louis Intl,0.0698
+67,Minneapolis-St Paul Intl/Wold-,174,Baltimore-Washington Intl,0.1004
+174,Baltimore-Washington Intl,219,Mc Carran Intl,0.1982
+174,Baltimore-Washington Intl,299,Orlando Intl,0.1053
+152,Pittsburgh Intll,174,Baltimore-Washington Intl,0.0221
+174,Baltimore-Washington Intl,293,Houston Intercontinental,0.1294
+162,Philadelphia Intl,174,Baltimore-Washington Intl,0.0099
+174,Baltimore-Washington Intl,230,Charlotte/Douglas Intl,0.0436
+174,Baltimore-Washington Intl,301,Tampa Intl,0.1111
+174,Baltimore-Washington Intl,221,Raleigh-Durham Intll,0.0333
+174,Baltimore-Washington Intl,176,Cincinnati/Northern Kentucky I,0.0407
+174,Baltimore-Washington Intl,310,Fort Lauderdale/Hollywood Intl,0.1264
+131,Cleveland-Hopkins Intl,174,Baltimore-Washington Intl,0.034
+174,Baltimore-Washington Intl,321,Luis Munoz Marin Intl,0.2054
+172,Kansas City Intl,174,Baltimore-Washington Intl,0.0919
+174,Baltimore-Washington Intl,292,New Orleans Intl/Moisant Fld/,0.1117
+167,Indianapolis Intl,174,Baltimore-Washington Intl,0.0493
+174,Baltimore-Washington Intl,306,Palm Beach Intl,0.1206
+161,James M Cox Dayton Intl,174,Baltimore-Washington Intl,0.039
+159,Port Columbus Intl,174,Baltimore-Washington Intl,0.0327
+174,Baltimore-Washington Intl,307,Southwest Florida Intl,0.1234
+174,Baltimore-Washington Intl,284,Jacksonville Intl,0.0867
+174,Baltimore-Washington Intl,212,Norfolk Intl,0.0219
+92,Syracuse Hancock Intl,174,Baltimore-Washington Intl,0.0377
+91,Greater Rochester Intl,174,Baltimore-Washington Intl,0.038
+125,Theodore Francis Green State,174,Baltimore-Washington Intl,0.0362
+174,Baltimore-Washington Intl,305,Sarasota/Bradenton Intl,0.1164
+174,Baltimore-Washington Intl,202,Richmond Intll,0.0162
+174,Baltimore-Washington Intl,218,Piedmont Triad Intll,0.0338
+143,Long Island Mac Arthur,174,Baltimore-Washington Intl,0.0239
+174,Baltimore-Washington Intl,273,Savannah Intll,0.0712
+174,Baltimore-Washington Intl,204,Roanoke Regional/Woodrum Field,0.0243
+89,Oneida County,174,Baltimore-Washington Intl,0.0386
+118,Chicago O'hare Intl,177,Washington Dulles Intl,0.0606
+177,Washington Dulles Intl,248,Los Angeles Intl,0.2139
+177,Washington Dulles Intl,201,San Francisco Intl,0.229
+150,John F Kennedy Intl,177,Washington Dulles Intl,0.0247
+177,Washington Dulles Intl,311,Miami Intl,0.1264
+146,La Guardia,177,Washington Dulles Intl,0.0253
+177,Washington Dulles Intl,258,Phoenix Sky Harbor Intl,0.1837
+177,Washington Dulles Intl,182,Lambert-St Louis Intl,0.0657
+67,Minneapolis-St Paul Intl/Wold-,177,Washington Dulles Intl,0.0983
+177,Washington Dulles Intl,299,Orlando Intl,0.1023
+152,Pittsburgh Intll,177,Washington Dulles Intl,0.0204
+177,Washington Dulles Intl,293,Houston Intercontinental,0.125
+162,Philadelphia Intl,177,Washington Dulles Intl,0.0144
+47,Seattle-Tacoma Intl,177,Washington Dulles Intl,0.2424
+177,Washington Dulles Intl,179,Washington National,0.0022
+144,Salt Lake City Intl,177,Washington Dulles Intl,0.1767
+177,Washington Dulles Intl,263,San Diego Intl-Lindbergh Fld,0.2108
+177,Washington Dulles Intl,301,Tampa Intl,0.1079
+174,Baltimore-Washington Intl,177,Washington Dulles Intl,0.0046
+177,Washington Dulles Intl,321,Luis Munoz Marin Intl,0.2044
+177,Washington Dulles Intl,292,New Orleans Intl/Moisant Fld/,0.1075
+177,Washington Dulles Intl,212,Norfolk Intl,0.0206
+91,Greater Rochester Intl,177,Washington Dulles Intl,0.0399
+125,Theodore Francis Green State,177,Washington Dulles Intl,0.0406
+177,Washington Dulles Intl,202,Richmond Intll,0.0137
+157,Harrisburg Intll,177,Washington Dulles Intl,0.0125
+80,Portland Intl Jetport,177,Washington Dulles Intl,0.0579
+177,Washington Dulles Intl,273,Savannah Intll,0.0678
+96,Manchester,177,Washington Dulles Intl,0.0489
+177,Washington Dulles Intl,204,Roanoke Regional/Woodrum Field,0.02
+141,University Park,177,Washington Dulles Intl,0.0183
+182,Lambert-St Louis Intl,221,Raleigh-Durham Intll,0.065
+221,Raleigh-Durham Intll,301,Tampa Intl,0.0779
+221,Raleigh-Durham Intll,321,Luis Munoz Marin Intl,0.1789
+221,Raleigh-Durham Intll,307,Southwest Florida Intl,0.0905
+92,Syracuse Hancock Intl,221,Raleigh-Durham Intll,0.0704
+91,Greater Rochester Intl,221,Raleigh-Durham Intll,0.0694
+221,Raleigh-Durham Intll,305,Sarasota/Bradenton Intl,0.0832
+202,Richmond Intll,221,Raleigh-Durham Intll,0.0173
+221,Raleigh-Durham Intll,322,Cyril E King,0.1818
+221,Raleigh-Durham Intll,273,Savannah Intll,0.0379
+129,Stewart Int'l,221,Raleigh-Durham Intll,0.0589
+118,Chicago O'hare Intl,176,Cincinnati/Northern Kentucky I,0.0325
+176,Cincinnati/Northern Kentucky I,261,Dallas/Fort Worth Intl,0.0862
+176,Cincinnati/Northern Kentucky I,248,Los Angeles Intl,0.1786
+176,Cincinnati/Northern Kentucky I,201,San Francisco Intl,0.1925
+150,John F Kennedy Intl,176,Cincinnati/Northern Kentucky I,0.0574
+166,Stapleton Intl,176,Cincinnati/Northern Kentucky I,0.1032
+176,Cincinnati/Northern Kentucky I,311,Miami Intl,0.1285
+146,La Guardia,176,Cincinnati/Northern Kentucky I,0.0574
+147,Newark Intl,176,Cincinnati/Northern Kentucky I,0.0558
+176,Cincinnati/Northern Kentucky I,258,Phoenix Sky Harbor Intl,0.1493
+112,Detroit Metropolitan Wayne Cou,176,Cincinnati/Northern Kentucky I,0.031
+176,Cincinnati/Northern Kentucky I,182,Lambert-St Louis Intl,0.0291
+67,Minneapolis-St Paul Intl/Wold-,176,Cincinnati/Northern Kentucky I,0.0708
+176,Cincinnati/Northern Kentucky I,219,Mc Carran Intl,0.1579
+176,Cincinnati/Northern Kentucky I,299,Orlando Intl,0.1028
+152,Pittsburgh Intll,176,Cincinnati/Northern Kentucky I,0.0265
+162,Philadelphia Intl,176,Cincinnati/Northern Kentucky I,0.0486
+47,Seattle-Tacoma Intl,176,Cincinnati/Northern Kentucky I,0.2078
+176,Cincinnati/Northern Kentucky I,179,Washington National,0.0388
+144,Salt Lake City Intl,176,Cincinnati/Northern Kentucky I,0.1401
+176,Cincinnati/Northern Kentucky I,263,San Diego Intl-Lindbergh Fld,0.1762
+176,Cincinnati/Northern Kentucky I,301,Tampa Intl,0.1064
+176,Cincinnati/Northern Kentucky I,221,Raleigh-Durham Intll,0.0426
+176,Cincinnati/Northern Kentucky I,310,Fort Lauderdale/Hollywood Intl,0.1261
+176,Cincinnati/Northern Kentucky I,232,Memphis Intl,0.0468
+176,Cincinnati/Northern Kentucky I,296,William P Hobby,0.1048
+172,Kansas City Intl,176,Cincinnati/Northern Kentucky I,0.0513
+176,Cincinnati/Northern Kentucky I,292,New Orleans Intl/Moisant Fld/,0.0911
+65,Portland Intl,176,Cincinnati/Northern Kentucky I,0.2031
+167,Indianapolis Intl,176,Cincinnati/Northern Kentucky I,0.0105
+176,Cincinnati/Northern Kentucky I,306,Palm Beach Intl,0.1204
+94,General Mitchell Intll,176,Cincinnati/Northern Kentucky I,0.0408
+176,Cincinnati/Northern Kentucky I,307,Southwest Florida Intl,0.1204
+176,Cincinnati/Northern Kentucky I,284,Jacksonville Intl,0.0831
+176,Cincinnati/Northern Kentucky I,212,Norfolk Intl,0.0478
+92,Syracuse Hancock Intl,176,Cincinnati/Northern Kentucky I,0.0584
+91,Greater Rochester Intl,176,Cincinnati/Northern Kentucky I,0.0527
+176,Cincinnati/Northern Kentucky I,189,Louisville Intl,0.01
+176,Cincinnati/Northern Kentucky I,305,Sarasota/Bradenton Intl,0.1118
+176,Cincinnati/Northern Kentucky I,239,Adams Field,0.0564
+176,Cincinnati/Northern Kentucky I,202,Richmond Intll,0.0402
+176,Cincinnati/Northern Kentucky I,218,Piedmont Triad Intll,0.0371
+99,Kent County Intl,176,Cincinnati/Northern Kentucky I,0.037
+176,Cincinnati/Northern Kentucky I,222,Mc Ghee Tyson,0.0311
+80,Portland Intl Jetport,176,Cincinnati/Northern Kentucky I,0.0853
+176,Cincinnati/Northern Kentucky I,271,Jackson Intll,0.0701
+176,Cincinnati/Northern Kentucky I,192,Blue Grass,0.0096
+126,Michiana Rgnl Transportation C,176,Cincinnati/Northern Kentucky I,0.0268
+137,Fort Wayne Intll,176,Cincinnati/Northern Kentucky I,0.0187
+118,Chicago O'hare Intl,310,Fort Lauderdale/Hollywood Intl,0.157
+150,John F Kennedy Intl,310,Fort Lauderdale/Hollywood Intl,0.1429
+310,Fort Lauderdale/Hollywood Intl,311,Miami Intl,0.0027
+146,La Guardia,310,Fort Lauderdale/Hollywood Intl,0.1441
+182,Lambert-St Louis Intl,310,Fort Lauderdale/Hollywood Intl,0.1319
+67,Minneapolis-St Paul Intl/Wold-,310,Fort Lauderdale/Hollywood Intl,0.1917
+299,Orlando Intl,310,Fort Lauderdale/Hollywood Intl,0.0234
+152,Pittsburgh Intll,310,Fort Lauderdale/Hollywood Intl,0.1378
+293,Houston Intercontinental,310,Fort Lauderdale/Hollywood Intl,0.086
+162,Philadelphia Intl,310,Fort Lauderdale/Hollywood Intl,0.1342
+301,Tampa Intl,310,Fort Lauderdale/Hollywood Intl,0.0219
+177,Washington Dulles Intl,310,Fort Lauderdale/Hollywood Intl,0.1238
+221,Raleigh-Durham Intll,310,Fort Lauderdale/Hollywood Intl,0.094
+232,Memphis Intl,310,Fort Lauderdale/Hollywood Intl,0.0994
+123,Chicago Midway,310,Fort Lauderdale/Hollywood Intl,0.1551
+292,New Orleans Intl/Moisant Fld/,310,Fort Lauderdale/Hollywood Intl,0.0637
+167,Indianapolis Intl,310,Fort Lauderdale/Hollywood Intl,0.1341
+306,Palm Beach Intl,310,Fort Lauderdale/Hollywood Intl,0.0059
+94,General Mitchell Intll,310,Fort Lauderdale/Hollywood Intl,0.1661
+307,Southwest Florida Intl,310,Fort Lauderdale/Hollywood Intl,0.0094
+143,Long Island Mac Arthur,310,Fort Lauderdale/Hollywood Intl,0.1452
+302,St Petersburg/Clearwater Intl,310,Fort Lauderdale/Hollywood Intl,0.0218
+118,Chicago O'hare Intl,232,Memphis Intl,0.067
+201,San Francisco Intl,232,Memphis Intl,0.1667
+232,Memphis Intl,311,Miami Intl,0.1013
+232,Memphis Intl,258,Phoenix Sky Harbor Intl,0.1133
+182,Lambert-St Louis Intl,232,Memphis Intl,0.0355
+67,Minneapolis-St Paul Intl/Wold-,232,Memphis Intl,0.0954
+152,Pittsburgh Intll,232,Memphis Intl,0.0719
+162,Philadelphia Intl,232,Memphis Intl,0.0881
+47,Seattle-Tacoma Intl,232,Memphis Intl,0.2028
+232,Memphis Intl,301,Tampa Intl,0.0775
+232,Memphis Intl,292,New Orleans Intl/Moisant Fld/,0.0483
+232,Memphis Intl,297,San Antonio Intl,0.0681
+94,General Mitchell Intll,232,Memphis Intl,0.0762
+232,Memphis Intl,307,Southwest Florida Intl,0.0915
+225,Will Rogers World,232,Memphis Intl,0.0389
+216,Tulsa Intl,232,Memphis Intl,0.032
+189,Louisville Intl,232,Memphis Intl,0.0369
+133,Eppley Airfield,232,Memphis Intl,0.0669
+222,Mc Ghee Tyson,232,Memphis Intl,0.0314
+232,Memphis Intl,285,Eglin Afb,0.047
+118,Chicago O'hare Intl,131,Cleveland-Hopkins Intl,0.0313
+131,Cleveland-Hopkins Intl,261,Dallas/Fort Worth Intl,0.1123
+131,Cleveland-Hopkins Intl,248,Los Angeles Intl,0.1993
+131,Cleveland-Hopkins Intl,201,San Francisco Intl,0.2095
+131,Cleveland-Hopkins Intl,150,John F Kennedy Intl,0.0418
+131,Cleveland-Hopkins Intl,166,Stapleton Intl,0.1183
+131,Cleveland-Hopkins Intl,311,Miami Intl,0.1494
+131,Cleveland-Hopkins Intl,146,La Guardia,0.0412
+131,Cleveland-Hopkins Intl,147,Newark Intl,0.0398
+131,Cleveland-Hopkins Intl,258,Phoenix Sky Harbor Intl,0.1715
+112,Detroit Metropolitan Wayne Cou,131,Cleveland-Hopkins Intl,0.0108
+131,Cleveland-Hopkins Intl,182,Lambert-St Louis Intl,0.0502
+67,Minneapolis-St Paul Intl/Wold-,131,Cleveland-Hopkins Intl,0.0667
+131,Cleveland-Hopkins Intl,219,Mc Carran Intl,0.1771
+131,Cleveland-Hopkins Intl,299,Orlando Intl,0.124
+131,Cleveland-Hopkins Intl,152,Pittsburgh Intll,0.0121
+131,Cleveland-Hopkins Intl,293,Houston Intercontinental,0.129
+131,Cleveland-Hopkins Intl,162,Philadelphia Intl,0.0368
+47,Seattle-Tacoma Intl,131,Cleveland-Hopkins Intl,0.2139
+131,Cleveland-Hopkins Intl,230,Charlotte/Douglas Intl,0.0594
+131,Cleveland-Hopkins Intl,179,Washington National,0.0346
+131,Cleveland-Hopkins Intl,301,Tampa Intl,0.1284
+131,Cleveland-Hopkins Intl,177,Washington Dulles Intl,0.0325
+131,Cleveland-Hopkins Intl,221,Raleigh-Durham Intll,0.0552
+131,Cleveland-Hopkins Intl,176,Cincinnati/Northern Kentucky I,0.0267
+131,Cleveland-Hopkins Intl,310,Fort Lauderdale/Hollywood Intl,0.1469
+123,Chicago Midway,131,Cleveland-Hopkins Intl,0.0302
+131,Cleveland-Hopkins Intl,172,Kansas City Intl,0.0685
+131,Cleveland-Hopkins Intl,292,New Orleans Intl/Moisant Fld/,0.1172
+131,Cleveland-Hopkins Intl,167,Indianapolis Intl,0.0278
+131,Cleveland-Hopkins Intl,306,Palm Beach Intl,0.141
+94,General Mitchell Intll,131,Cleveland-Hopkins Intl,0.0341
+131,Cleveland-Hopkins Intl,307,Southwest Florida Intl,0.1421
+125,Theodore Francis Green State,131,Cleveland-Hopkins Intl,0.0532
+131,Cleveland-Hopkins Intl,189,Louisville Intl,0.0367
+131,Cleveland-Hopkins Intl,305,Sarasota/Bradenton Intl,0.1339
+131,Cleveland-Hopkins Intl,153,Yampa Valley,0.1295
+182,Lambert-St Louis Intl,321,Luis Munoz Marin Intl,0.2303
+301,Tampa Intl,321,Luis Munoz Marin Intl,0.124
+321,Luis Munoz Marin Intl,322,Cyril E King,0.0054
+321,Luis Munoz Marin Intl,325,Alexander Hamilton,0.0094
+118,Chicago O'hare Intl,296,William P Hobby,0.1237
+150,John F Kennedy Intl,296,William P Hobby,0.1517
+296,William P Hobby,311,Miami Intl,0.0848
+258,Phoenix Sky Harbor Intl,296,William P Hobby,0.0926
+182,Lambert-St Louis Intl,296,William P Hobby,0.0905
+67,Minneapolis-St Paul Intl/Wold-,296,William P Hobby,0.146
+232,Memphis Intl,296,William P Hobby,0.0582
+123,Chicago Midway,296,William P Hobby,0.1222
+292,New Orleans Intl/Moisant Fld/,296,William P Hobby,0.0258
+296,William P Hobby,297,San Antonio Intl,0.0162
+225,Will Rogers World,296,William P Hobby,0.0562
+216,Tulsa Intl,296,William P Hobby,0.0627
+275,Midland Intll,296,William P Hobby,0.0415
+296,William P Hobby,308,Rio Grande Valley Intl,0.0349
+123,Chicago Midway,182,Lambert-St Louis Intl,0.0319
+67,Minneapolis-St Paul Intl/Wold-,123,Chicago Midway,0.0406
+123,Chicago Midway,152,Pittsburgh Intll,0.0403
+47,Seattle-Tacoma Intl,123,Chicago Midway,0.1841
+123,Chicago Midway,301,Tampa Intl,0.1347
+123,Chicago Midway,307,Southwest Florida Intl,0.1489
+123,Chicago Midway,273,Savannah Intll,0.0981
+123,Chicago Midway,163,Capital,0.021
+123,Chicago Midway,302,St Petersburg/Clearwater Intl,0.1351
+118,Chicago O'hare Intl,217,Nashville Intll,0.0562
+217,Nashville Intll,261,Dallas/Fort Worth Intl,0.0611
+217,Nashville Intll,248,Los Angeles Intl,0.1628
+201,San Francisco Intl,217,Nashville Intll,0.1823
+166,Stapleton Intl,217,Nashville Intll,0.0991
+217,Nashville Intll,311,Miami Intl,0.1039
+146,La Guardia,217,Nashville Intll,0.079
+109,General Edward Lawrence Logan,217,Nashville Intll,0.0997
+147,Newark Intl,217,Nashville Intll,0.0773
+217,Nashville Intll,258,Phoenix Sky Harbor Intl,0.1315
+112,Detroit Metropolitan Wayne Cou,217,Nashville Intll,0.0606
+182,Lambert-St Louis Intl,217,Nashville Intll,0.0313
+67,Minneapolis-St Paul Intl/Wold-,217,Nashville Intll,0.09
+217,Nashville Intll,219,Mc Carran Intl,0.145
+217,Nashville Intll,299,Orlando Intl,0.0784
+152,Pittsburgh Intll,217,Nashville Intll,0.0531
+217,Nashville Intll,293,Houston Intercontinental,0.0734
+162,Philadelphia Intl,217,Nashville Intll,0.0684
+217,Nashville Intll,230,Charlotte/Douglas Intl,0.0305
+179,Washington National,217,Nashville Intll,0.0556
+217,Nashville Intll,263,San Diego Intl-Lindbergh Fld,0.1586
+217,Nashville Intll,301,Tampa Intl,0.0807
+174,Baltimore-Washington Intl,217,Nashville Intll,0.0587
+217,Nashville Intll,221,Raleigh-Durham Intll,0.0403
+176,Cincinnati/Northern Kentucky I,217,Nashville Intll,0.0297
+217,Nashville Intll,310,Fort Lauderdale/Hollywood Intl,0.1017
+217,Nashville Intll,232,Memphis Intl,0.0197
+131,Cleveland-Hopkins Intl,217,Nashville Intll,0.0562
+217,Nashville Intll,321,Luis Munoz Marin Intl,0.1991
+217,Nashville Intll,296,William P Hobby,0.0758
+123,Chicago Midway,217,Nashville Intll,0.0544
+172,Kansas City Intl,217,Nashville Intll,0.0509
+217,Nashville Intll,292,New Orleans Intl/Moisant Fld/,0.0614
+167,Indianapolis Intl,217,Nashville Intll,0.0344
+217,Nashville Intll,306,Palm Beach Intl,0.0963
+217,Nashville Intll,297,San Antonio Intl,0.087
+94,General Mitchell Intll,217,Nashville Intll,0.0655
+159,Port Columbus Intl,217,Nashville Intll,0.0417
+217,Nashville Intll,307,Southwest Florida Intl,0.095
+217,Nashville Intll,284,Jacksonville Intl,0.0595
+212,Norfolk Intl,217,Nashville Intll,0.0539
+189,Louisville Intl,217,Nashville Intll,0.0202
+217,Nashville Intll,239,Adams Field,0.0312
+202,Richmond Intll,217,Nashville Intll,0.0495
+217,Nashville Intll,218,Piedmont Triad Intll,0.0344
+217,Nashville Intll,222,Mc Ghee Tyson,0.014
+217,Nashville Intll,240,Huntsville Intl-Carl T Jones F,0.0142
+217,Nashville Intll,283,"Baton Rouge Metropolitan, Ryan",0.058
+217,Nashville Intll,286,Pensacola Regional,0.0541
+217,Nashville Intll,271,Jackson Intll,0.0404
+192,Blue Grass,217,Nashville Intll,0.0211
+126,Michiana Rgnl Transportation C,217,Nashville Intll,0.0533
+217,Nashville Intll,281,Mobile Regional,0.0525
+118,Chicago O'hare Intl,172,Kansas City Intl,0.0431
+172,Kansas City Intl,201,San Francisco Intl,0.1417
+172,Kansas City Intl,258,Phoenix Sky Harbor Intl,0.1044
+172,Kansas City Intl,182,Lambert-St Louis Intl,0.0228
+67,Minneapolis-St Paul Intl/Wold-,172,Kansas City Intl,0.054
+172,Kansas City Intl,299,Orlando Intl,0.1243
+152,Pittsburgh Intll,172,Kansas City Intl,0.0747
+162,Philadelphia Intl,172,Kansas City Intl,0.0994
+47,Seattle-Tacoma Intl,172,Kansas City Intl,0.1606
+144,Salt Lake City Intl,172,Kansas City Intl,0.089
+172,Kansas City Intl,263,San Diego Intl-Lindbergh Fld,0.1305
+172,Kansas City Intl,232,Memphis Intl,0.0472
+123,Chicago Midway,172,Kansas City Intl,0.0427
+94,General Mitchell Intll,172,Kansas City Intl,0.0492
+172,Kansas City Intl,225,Will Rogers World,0.0401
+172,Kansas City Intl,216,Tulsa Intl,0.0302
+133,Eppley Airfield,172,Kansas City Intl,0.0201
+142,Elko Muni-J.C. Harris Field,172,Kansas City Intl,0.1083
+118,Chicago O'hare Intl,292,New Orleans Intl/Moisant Fld/,0.1151
+201,San Francisco Intl,292,New Orleans Intl/Moisant Fld/,0.179
+182,Lambert-St Louis Intl,292,New Orleans Intl/Moisant Fld/,0.0837
+152,Pittsburgh Intll,292,New Orleans Intl/Moisant Fld/,0.1126
+162,Philadelphia Intl,292,New Orleans Intl/Moisant Fld/,0.1215
+144,Salt Lake City Intl,292,New Orleans Intl/Moisant Fld/,0.1512
+292,New Orleans Intl/Moisant Fld/,301,Tampa Intl,0.0439
+292,New Orleans Intl/Moisant Fld/,297,San Antonio Intl,0.042
+182,Lambert-St Louis Intl,203,San Jose Intll,0.1613
+144,Salt Lake City Intl,203,San Jose Intll,0.0603
+203,San Jose Intll,253,John Wayne Airport-Orange Coun,0.0408
+183,Sacramento Metropolitan,203,San Jose Intll,0.0129
+203,San Jose Intll,251,Long Beach /Daugherty Field/,0.039
+65,Portland Intl,201,San Francisco Intl,0.0761
+65,Portland Intl,258,Phoenix Sky Harbor Intl,0.128
+47,Seattle-Tacoma Intl,65,Portland Intl,0.0178
+65,Portland Intl,144,Salt Lake City Intl,0.0709
+65,Portland Intl,263,San Diego Intl-Lindbergh Fld,0.1259
+65,Portland Intl,203,San Jose Intll,0.0787
+65,Portland Intl,253,John Wayne Airport-Orange Coun,0.1163
+65,Portland Intl,183,Sacramento Metropolitan,0.066
+65,Portland Intl,169,Reno/Tahoe Intll,0.06
+59,Tri-Cities,65,Portland Intl,0.0189
+56,Yakima Air Terminal,65,Portland Intl,0.0141
+65,Portland Intl,74,Roberts Field,0.0147
+54,Pullman/Moscow Regional,65,Portland Intl,0.0301
+65,Portland Intl,66,Mcnary Fld,0.0068
+262,Dallas Love Field,293,Houston Intercontinental,0.0285
+262,Dallas Love Field,296,William P Hobby,0.0316
+262,Dallas Love Field,292,New Orleans Intl/Moisant Fld/,0.0433
+262,Dallas Love Field,297,San Antonio Intl,0.0327
+262,Dallas Love Field,276,El Paso Intl,0.0495
+225,Will Rogers World,262,Dallas Love Field,0.0246
+216,Tulsa Intl,262,Dallas Love Field,0.0324
+239,Adams Field,262,Dallas Love Field,0.0297
+254,Lubbock Intl,262,Dallas Love Field,0.0265
+262,Dallas Love Field,275,Midland Intll,0.0286
+118,Chicago O'hare Intl,167,Indianapolis Intl,0.0231
+167,Indianapolis Intl,248,Los Angeles Intl,0.1726
+167,Indianapolis Intl,201,San Francisco Intl,0.1848
+150,John F Kennedy Intl,167,Indianapolis Intl,0.0643
+167,Indianapolis Intl,311,Miami Intl,0.1365
+146,La Guardia,167,Indianapolis Intl,0.0641
+167,Indianapolis Intl,258,Phoenix Sky Harbor Intl,0.1441
+167,Indianapolis Intl,182,Lambert-St Louis Intl,0.0227
+67,Minneapolis-St Paul Intl/Wold-,167,Indianapolis Intl,0.0607
+167,Indianapolis Intl,219,Mc Carran Intl,0.151
+167,Indianapolis Intl,299,Orlando Intl,0.1108
+152,Pittsburgh Intll,167,Indianapolis Intl,0.0318
+162,Philadelphia Intl,167,Indianapolis Intl,0.0563
+167,Indianapolis Intl,301,Tampa Intl,0.1138
+167,Indianapolis Intl,232,Memphis Intl,0.0484
+123,Chicago Midway,167,Indianapolis Intl,0.0211
+167,Indianapolis Intl,172,Kansas City Intl,0.0431
+167,Indianapolis Intl,292,New Orleans Intl/Moisant Fld/,0.0951
+167,Indianapolis Intl,307,Southwest Florida Intl,0.128
+167,Indianapolis Intl,189,Louisville Intl,0.015
+167,Indianapolis Intl,302,St Petersburg/Clearwater Intl,0.1143
+182,Lambert-St Louis Intl,306,Palm Beach Intl,0.1266
+152,Pittsburgh Intll,306,Palm Beach Intl,0.1319
+162,Philadelphia Intl,306,Palm Beach Intl,0.1284
+301,Tampa Intl,306,Palm Beach Intl,0.0175
+221,Raleigh-Durham Intll,306,Palm Beach Intl,0.088
+306,Palm Beach Intl,307,Southwest Florida Intl,0.0086
+118,Chicago O'hare Intl,197,Metropolitan Oakland Intl,0.1795
+197,Metropolitan Oakland Intl,258,Phoenix Sky Harbor Intl,0.0662
+47,Seattle-Tacoma Intl,197,Metropolitan Oakland Intl,0.0929
+144,Salt Lake City Intl,197,Metropolitan Oakland Intl,0.0599
+197,Metropolitan Oakland Intl,263,San Diego Intl-Lindbergh Fld,0.0541
+65,Portland Intl,197,Metropolitan Oakland Intl,0.0752
+197,Metropolitan Oakland Intl,246,Ontario Intl,0.0422
+197,Metropolitan Oakland Intl,253,John Wayne Airport-Orange Coun,0.0445
+183,Sacramento Metropolitan,197,Metropolitan Oakland Intl,0.0099
+169,Reno/Tahoe Intll,197,Metropolitan Oakland Intl,0.0211
+197,Metropolitan Oakland Intl,250,Palm Springs Regional,0.0472
+182,Lambert-St Louis Intl,297,San Antonio Intl,0.0973
+144,Salt Lake City Intl,297,San Antonio Intl,0.1276
+118,Chicago O'hare Intl,246,Ontario Intl,0.1691
+201,San Francisco Intl,246,Ontario Intl,0.0419
+246,Ontario Intl,258,Phoenix Sky Harbor Intl,0.029
+182,Lambert-St Louis Intl,246,Ontario Intl,0.1458
+47,Seattle-Tacoma Intl,246,Ontario Intl,0.1301
+144,Salt Lake City Intl,246,Ontario Intl,0.0704
+246,Ontario Intl,263,San Diego Intl-Lindbergh Fld,0.0128
+203,San Jose Intll,246,Ontario Intl,0.0386
+65,Portland Intl,246,Ontario Intl,0.1131
+246,Ontario Intl,253,John Wayne Airport-Orange Coun,0.0039
+183,Sacramento Metropolitan,246,Ontario Intl,0.0489
+169,Reno/Tahoe Intll,246,Ontario Intl,0.0532
+246,Ontario Intl,250,Palm Springs Regional,0.0059
+118,Chicago O'hare Intl,233,Albuquerque Intl,0.1161
+233,Albuquerque Intl,261,Dallas/Fort Worth Intl,0.0529
+233,Albuquerque Intl,255,The William B Hartsfield Atlan,0.1138
+233,Albuquerque Intl,248,Los Angeles Intl,0.0609
+201,San Francisco Intl,233,Albuquerque Intl,0.0839
+166,Stapleton Intl,233,Albuquerque Intl,0.0461
+233,Albuquerque Intl,258,Phoenix Sky Harbor Intl,0.0315
+182,Lambert-St Louis Intl,233,Albuquerque Intl,0.0901
+67,Minneapolis-St Paul Intl/Wold-,233,Albuquerque Intl,0.1163
+219,Mc Carran Intl,233,Albuquerque Intl,0.0446
+152,Pittsburgh Intll,233,Albuquerque Intl,0.1441
+233,Albuquerque Intl,293,Houston Intercontinental,0.075
+144,Salt Lake City Intl,233,Albuquerque Intl,0.0613
+233,Albuquerque Intl,263,San Diego Intl-Lindbergh Fld,0.0581
+176,Cincinnati/Northern Kentucky I,233,Albuquerque Intl,0.1182
+233,Albuquerque Intl,296,William P Hobby,0.0773
+233,Albuquerque Intl,262,Dallas Love Field,0.0539
+233,Albuquerque Intl,276,El Paso Intl,0.0309
+233,Albuquerque Intl,274,Tucson Intl,0.0355
+233,Albuquerque Intl,254,Lubbock Intl,0.0277
+233,Albuquerque Intl,275,Midland Intll,0.0372
+229,Amarillo Intl,233,Albuquerque Intl,0.0251
+142,Elko Muni-J.C. Harris Field,233,Albuquerque Intl,0.0724
+118,Chicago O'hare Intl,119,Bradley Intl,0.0775
+119,Bradley Intl,261,Dallas/Fort Worth Intl,0.1511
+119,Bradley Intl,150,John F Kennedy Intl,0.0136
+119,Bradley Intl,311,Miami Intl,0.159
+109,General Edward Lawrence Logan,119,Bradley Intl,0.0095
+119,Bradley Intl,147,Newark Intl,0.0141
+112,Detroit Metropolitan Wayne Cou,119,Bradley Intl,0.0544
+119,Bradley Intl,182,Lambert-St Louis Intl,0.095
+67,Minneapolis-St Paul Intl/Wold-,119,Bradley Intl,0.1082
+119,Bradley Intl,299,Orlando Intl,0.1363
+119,Bradley Intl,152,Pittsburgh Intll,0.0408
+119,Bradley Intl,162,Philadelphia Intl,0.0236
+119,Bradley Intl,230,Charlotte/Douglas Intl,0.0768
+119,Bradley Intl,179,Washington National,0.0368
+119,Bradley Intl,301,Tampa Intl,0.1425
+119,Bradley Intl,174,Baltimore-Washington Intl,0.0333
+119,Bradley Intl,177,Washington Dulles Intl,0.0375
+119,Bradley Intl,221,Raleigh-Durham Intll,0.0657
+119,Bradley Intl,176,Cincinnati/Northern Kentucky I,0.067
+119,Bradley Intl,310,Fort Lauderdale/Hollywood Intl,0.1563
+119,Bradley Intl,131,Cleveland-Hopkins Intl,0.047
+119,Bradley Intl,321,Luis Munoz Marin Intl,0.2271
+119,Bradley Intl,217,Nashville Intll,0.0904
+119,Bradley Intl,306,Palm Beach Intl,0.1505
+95,Greater Buffalo Intl,119,Bradley Intl,0.0323
+92,Syracuse Hancock Intl,119,Bradley Intl,0.0207
+91,Greater Rochester Intl,119,Bradley Intl,0.0278
+182,Lambert-St Louis Intl,253,John Wayne Airport-Orange Coun,0.1483
+245,Burbank-Glendale-Pasadena,253,John Wayne Airport-Orange Coun,0.0056
+201,San Francisco Intl,316,Kahului,0.2359
+47,Seattle-Tacoma Intl,316,Kahului,0.3074
+314,Molokai,316,Kahului,0.0042
+94,General Mitchell Intll,118,Chicago O'hare Intl,0.0093
+94,General Mitchell Intll,201,San Francisco Intl,0.1827
+94,General Mitchell Intll,258,Phoenix Sky Harbor Intl,0.1528
+94,General Mitchell Intll,182,Lambert-St Louis Intl,0.042
+67,Minneapolis-St Paul Intl/Wold-,94,General Mitchell Intll,0.0327
+94,General Mitchell Intll,152,Pittsburgh Intll,0.0456
+94,General Mitchell Intll,162,Philadelphia Intl,0.0709
+47,Seattle-Tacoma Intl,94,General Mitchell Intll,0.1804
+94,General Mitchell Intll,263,San Diego Intl-Lindbergh Fld,0.1782
+94,General Mitchell Intll,301,Tampa Intl,0.1457
+90,Dane County Regional-Truax Fie,94,General Mitchell Intll,0.0075
+77,Wittman Regional,94,General Mitchell Intll,0.0104
+118,Chicago O'hare Intl,288,Robert Mueller Muni,0.1222
+261,Dallas/Fort Worth Intl,288,Robert Mueller Muni,0.025
+166,Stapleton Intl,288,Robert Mueller Muni,0.0977
+258,Phoenix Sky Harbor Intl,288,Robert Mueller Muni,0.0788
+152,Pittsburgh Intll,288,Robert Mueller Muni,0.1319
+288,Robert Mueller Muni,293,Houston Intercontinental,0.0124
+162,Philadelphia Intl,288,Robert Mueller Muni,0.1465
+230,Charlotte/Douglas Intl,288,Robert Mueller Muni,0.0974
+232,Memphis Intl,288,Robert Mueller Muni,0.06
+288,Robert Mueller Muni,296,William P Hobby,0.0138
+203,San Jose Intll,288,Robert Mueller Muni,0.1407
+262,Dallas Love Field,288,Robert Mueller Muni,0.0248
+288,Robert Mueller Muni,297,San Antonio Intl,0.0083
+276,El Paso Intl,288,Robert Mueller Muni,0.0465
+254,Lubbock Intl,288,Robert Mueller Muni,0.0384
+275,Midland Intll,288,Robert Mueller Muni,0.0278
+288,Robert Mueller Muni,308,Rio Grande Valley Intl,0.0389
+118,Chicago O'hare Intl,161,James M Cox Dayton Intl,0.0273
+161,James M Cox Dayton Intl,261,Dallas/Fort Worth Intl,0.0936
+161,James M Cox Dayton Intl,248,Los Angeles Intl,0.1832
+146,La Guardia,161,James M Cox Dayton Intl,0.0533
+147,Newark Intl,161,James M Cox Dayton Intl,0.0517
+112,Detroit Metropolitan Wayne Cou,161,James M Cox Dayton Intl,0.0225
+161,James M Cox Dayton Intl,182,Lambert-St Louis Intl,0.0332
+67,Minneapolis-St Paul Intl/Wold-,161,James M Cox Dayton Intl,0.0661
+161,James M Cox Dayton Intl,299,Orlando Intl,0.1106
+152,Pittsburgh Intll,161,James M Cox Dayton Intl,0.0211
+161,James M Cox Dayton Intl,162,Philadelphia Intl,0.0457
+161,James M Cox Dayton Intl,179,Washington National,0.0378
+161,James M Cox Dayton Intl,301,Tampa Intl,0.1143
+161,James M Cox Dayton Intl,167,Indianapolis Intl,0.0108
+161,James M Cox Dayton Intl,189,Louisville Intl,0.0183
+99,Kent County Intl,161,James M Cox Dayton Intl,0.0293
+126,Michiana Rgnl Transportation C,161,James M Cox Dayton Intl,0.0203
+137,Fort Wayne Intll,161,James M Cox Dayton Intl,0.0114
+100,Capital City,161,James M Cox Dayton Intl,0.0276
+161,James M Cox Dayton Intl,191,Evansville Regional,0.0245
+93,Bishop Intll,161,James M Cox Dayton Intl,0.0294
+183,Sacramento Metropolitan,253,John Wayne Airport-Orange Coun,0.0516
+118,Chicago O'hare Intl,159,Port Columbus Intl,0.0317
+159,Port Columbus Intl,261,Dallas/Fort Worth Intl,0.099
+159,Port Columbus Intl,248,Los Angeles Intl,0.1898
+150,John F Kennedy Intl,159,Port Columbus Intl,0.0468
+159,Port Columbus Intl,166,Stapleton Intl,0.112
+146,La Guardia,159,Port Columbus Intl,0.0466
+147,Newark Intl,159,Port Columbus Intl,0.045
+159,Port Columbus Intl,258,Phoenix Sky Harbor Intl,0.161
+112,Detroit Metropolitan Wayne Cou,159,Port Columbus Intl,0.0213
+159,Port Columbus Intl,182,Lambert-St Louis Intl,0.0398
+67,Minneapolis-St Paul Intl/Wold-,159,Port Columbus Intl,0.0703
+159,Port Columbus Intl,219,Mc Carran Intl,0.1685
+159,Port Columbus Intl,299,Orlando Intl,0.1108
+152,Pittsburgh Intll,159,Port Columbus Intl,0.0144
+159,Port Columbus Intl,293,Houston Intercontinental,0.1148
+159,Port Columbus Intl,162,Philadelphia Intl,0.039
+159,Port Columbus Intl,179,Washington National,0.0317
+159,Port Columbus Intl,301,Tampa Intl,0.1149
+159,Port Columbus Intl,176,Cincinnati/Northern Kentucky I,0.0128
+123,Chicago Midway,159,Port Columbus Intl,0.03
+159,Port Columbus Intl,167,Indianapolis Intl,0.0175
+94,General Mitchell Intll,159,Port Columbus Intl,0.038
+159,Port Columbus Intl,161,James M Cox Dayton Intl,0.0068
+307,Southwest Florida Intl,311,Miami Intl,0.0103
+182,Lambert-St Louis Intl,307,Southwest Florida Intl,0.1246
+301,Tampa Intl,307,Southwest Florida Intl,0.0142
+305,Sarasota/Bradenton Intl,307,Southwest Florida Intl,0.0092
+95,Greater Buffalo Intl,118,Chicago O'hare Intl,0.0476
+95,Greater Buffalo Intl,150,John F Kennedy Intl,0.0335
+95,Greater Buffalo Intl,146,La Guardia,0.0323
+95,Greater Buffalo Intl,147,Newark Intl,0.0317
+95,Greater Buffalo Intl,112,Detroit Metropolitan Wayne Cou,0.0245
+67,Minneapolis-St Paul Intl/Wold-,95,Greater Buffalo Intl,0.076
+95,Greater Buffalo Intl,299,Orlando Intl,0.1392
+95,Greater Buffalo Intl,152,Pittsburgh Intll,0.0246
+95,Greater Buffalo Intl,162,Philadelphia Intl,0.0343
+95,Greater Buffalo Intl,230,Charlotte/Douglas Intl,0.0747
+95,Greater Buffalo Intl,179,Washington National,0.0399
+95,Greater Buffalo Intl,174,Baltimore-Washington Intl,0.0375
+95,Greater Buffalo Intl,177,Washington Dulles Intl,0.0387
+95,Greater Buffalo Intl,221,Raleigh-Durham Intll,0.0675
+95,Greater Buffalo Intl,176,Cincinnati/Northern Kentucky I,0.0479
+95,Greater Buffalo Intl,131,Cleveland-Hopkins Intl,0.0216
+92,Syracuse Hancock Intl,95,Greater Buffalo Intl,0.0135
+91,Greater Rochester Intl,95,Greater Buffalo Intl,0.0057
+245,Burbank-Glendale-Pasadena,261,Dallas/Fort Worth Intl,0.1093
+201,San Francisco Intl,245,Burbank-Glendale-Pasadena,0.0385
+166,Stapleton Intl,245,Burbank-Glendale-Pasadena,0.0869
+245,Burbank-Glendale-Pasadena,258,Phoenix Sky Harbor Intl,0.0331
+219,Mc Carran Intl,245,Burbank-Glendale-Pasadena,0.0243
+47,Seattle-Tacoma Intl,245,Burbank-Glendale-Pasadena,0.1281
+144,Salt Lake City Intl,245,Burbank-Glendale-Pasadena,0.0708
+245,Burbank-Glendale-Pasadena,263,San Diego Intl-Lindbergh Fld,0.0152
+203,San Jose Intll,245,Burbank-Glendale-Pasadena,0.0353
+65,Portland Intl,245,Burbank-Glendale-Pasadena,0.1109
+197,Metropolitan Oakland Intl,245,Burbank-Glendale-Pasadena,0.0389
+245,Burbank-Glendale-Pasadena,246,Ontario Intl,0.0041
+183,Sacramento Metropolitan,245,Burbank-Glendale-Pasadena,0.0461
+213,Fresno Air Terminal,245,Burbank-Glendale-Pasadena,0.0255
+242,Santa Barbara Muni,245,Burbank-Glendale-Pasadena,0.0078
+118,Chicago O'hare Intl,276,El Paso Intl,0.1353
+248,Los Angeles Intl,276,El Paso Intl,0.0645
+201,San Francisco Intl,276,El Paso Intl,0.0986
+258,Phoenix Sky Harbor Intl,276,El Paso Intl,0.0327
+219,Mc Carran Intl,276,El Paso Intl,0.0606
+276,El Paso Intl,293,Houston Intercontinental,0.0588
+263,San Diego Intl-Lindbergh Fld,276,El Paso Intl,0.0557
+276,El Paso Intl,296,William P Hobby,0.0601
+276,El Paso Intl,297,San Antonio Intl,0.0458
+254,Lubbock Intl,276,El Paso Intl,0.0292
+275,Midland Intll,276,El Paso Intl,0.0213
+8,Anchorage Intl,118,Chicago O'hare Intl,0.3655
+8,Anchorage Intl,248,Los Angeles Intl,0.3059
+8,Anchorage Intl,201,San Francisco Intl,0.2654
+8,Anchorage Intl,112,Detroit Metropolitan Wayne Cou,0.3847
+8,Anchorage Intl,313,Honolulu Intl,0.3829
+8,Anchorage Intl,67,Minneapolis-St Paul Intl/Wold-,0.3284
+8,Anchorage Intl,47,Seattle-Tacoma Intl,0.1926
+8,Anchorage Intl,144,Salt Lake City Intl,0.2746
+8,Anchorage Intl,65,Portland Intl,0.204
+8,Anchorage Intl,26,Juneau Intl,0.083
+4,Fairbanks Intl,8,Anchorage Intl,0.0365
+8,Anchorage Intl,13,Bethel,0.0604
+8,Anchorage Intl,23,Dillingham,0.0478
+3,Ralph Wien Memorial,8,Anchorage Intl,0.0843
+2,Deadhorse,8,Anchorage Intl,0.0866
+5,Nome,8,Anchorage Intl,0.0849
+8,Anchorage Intl,36,Unalaska,0.1093
+8,Anchorage Intl,16,Merle K (Mudhole) Smith,0.0239
+6,St Mary's,8,Anchorage Intl,0.0683
+8,Anchorage Intl,35,Cold Bay,0.0863
+8,Anchorage Intl,28,St Paul Island,0.1099
+8,Anchorage Intl,30,Port Heiden,0.0596
+118,Chicago O'hare Intl,225,Will Rogers World,0.08
+225,Will Rogers World,258,Phoenix Sky Harbor Intl,0.0757
+182,Lambert-St Louis Intl,225,Will Rogers World,0.0489
+144,Salt Lake City Intl,225,Will Rogers World,0.0895
+216,Tulsa Intl,225,Will Rogers World,0.0116
+142,Elko Muni-J.C. Harris Field,225,Will Rogers World,0.1062
+169,Reno/Tahoe Intll,201,San Francisco Intl,0.0222
+47,Seattle-Tacoma Intl,169,Reno/Tahoe Intll,0.077
+144,Salt Lake City Intl,169,Reno/Tahoe Intll,0.0416
+169,Reno/Tahoe Intll,263,San Diego Intl-Lindbergh Fld,0.0659
+169,Reno/Tahoe Intll,203,San Jose Intll,0.0232
+169,Reno/Tahoe Intll,183,Sacramento Metropolitan,0.012
+142,Elko Muni-J.C. Harris Field,216,Tulsa Intl,0.1105
+118,Chicago O'hare Intl,284,Jacksonville Intl,0.1142
+284,Jacksonville Intl,311,Miami Intl,0.0455
+146,La Guardia,284,Jacksonville Intl,0.106
+182,Lambert-St Louis Intl,284,Jacksonville Intl,0.0904
+284,Jacksonville Intl,299,Orlando Intl,0.0198
+152,Pittsburgh Intll,284,Jacksonville Intl,0.0958
+162,Philadelphia Intl,284,Jacksonville Intl,0.0954
+221,Raleigh-Durham Intll,284,Jacksonville Intl,0.0535
+284,Jacksonville Intl,306,Palm Beach Intl,0.0373
+273,Savannah Intll,284,Jacksonville Intl,0.0158
+284,Jacksonville Intl,286,Pensacola Regional,0.028
+284,Jacksonville Intl,300,Melbourne Intll,0.0235
+182,Lambert-St Louis Intl,212,Norfolk Intl,0.0743
+152,Pittsburgh Intll,212,Norfolk Intl,0.04
+162,Philadelphia Intl,212,Norfolk Intl,0.0289
+212,Norfolk Intl,221,Raleigh-Durham Intll,0.0164
+131,Cleveland-Hopkins Intl,212,Norfolk Intl,0.0519
+202,Richmond Intll,212,Norfolk Intl,0.0082
+229,Amarillo Intl,274,Tucson Intl,0.0555
+312,Lihue,316,Kahului,0.018
+68,Bangor Intl,109,General Edward Lawrence Logan,0.0259
+68,Bangor Intl,147,Newark Intl,0.0478
+68,Bangor Intl,125,Theodore Francis Green State,0.0323
+68,Bangor Intl,80,Portland Intl Jetport,0.0134
+68,Bangor Intl,96,Manchester,0.0223
+91,Greater Rochester Intl,92,Syracuse Hancock Intl,0.008
+125,Theodore Francis Green State,221,Raleigh-Durham Intll,0.0673
+101,Albany County,118,Chicago O'hare Intl,0.0722
+101,Albany County,255,The William B Hartsfield Atlan,0.1024
+101,Albany County,146,La Guardia,0.0189
+101,Albany County,112,Detroit Metropolitan Wayne Cou,0.0489
+101,Albany County,152,Pittsburgh Intll,0.0392
+101,Albany County,162,Philadelphia Intl,0.0285
+101,Albany County,230,Charlotte/Douglas Intl,0.0807
+101,Albany County,179,Washington National,0.0407
+101,Albany County,174,Baltimore-Washington Intl,0.0372
+101,Albany County,221,Raleigh-Durham Intll,0.0704
+101,Albany County,176,Cincinnati/Northern Kentucky I,0.0657
+95,Greater Buffalo Intl,101,Albany County,0.0252
+80,Portland Intl Jetport,101,Albany County,0.0198
+101,Albany County,129,Stewart Int'l,0.012
+327,Saipan Intl,329,Guam Intll,0.0163
+329,Guam Intll,330,Babelthuap/Koror,0.0784
+328,Rota Intl,329,Guam Intll,0.007
+118,Chicago O'hare Intl,256,Birmingham Intl,0.0806
+256,Birmingham Intl,261,Dallas/Fort Worth Intl,0.0528
+182,Lambert-St Louis Intl,256,Birmingham Intl,0.0529
+256,Birmingham Intl,299,Orlando Intl,0.0563
+152,Pittsburgh Intll,256,Birmingham Intl,0.0741
+230,Charlotte/Douglas Intl,256,Birmingham Intl,0.0335
+176,Cincinnati/Northern Kentucky I,256,Birmingham Intl,0.0535
+232,Memphis Intl,256,Birmingham Intl,0.0218
+256,Birmingham Intl,296,William P Hobby,0.0574
+217,Nashville Intll,256,Birmingham Intl,0.0245
+256,Birmingham Intl,292,New Orleans Intl/Moisant Fld/,0.0385
+189,Louisville Intl,256,Birmingham Intl,0.0444
+240,Huntsville Intl-Carl T Jones F,256,Birmingham Intl,0.0103
+256,Birmingham Intl,271,Jackson Intll,0.0208
+256,Birmingham Intl,267,Shreveport Regional,0.0377
+256,Birmingham Intl,272,Dannelly Field,0.0122
+182,Lambert-St Louis Intl,189,Louisville Intl,0.0241
+118,Chicago O'hare Intl,133,Eppley Airfield,0.0412
+133,Eppley Airfield,258,Phoenix Sky Harbor Intl,0.1113
+133,Eppley Airfield,182,Lambert-St Louis Intl,0.0373
+133,Eppley Airfield,152,Pittsburgh Intll,0.0802
+133,Eppley Airfield,144,Salt Lake City Intl,0.0821
+133,Eppley Airfield,140,Lincoln Muni,0.0062
+261,Dallas/Fort Worth Intl,305,Sarasota/Bradenton Intl,0.0905
+305,Sarasota/Bradenton Intl,311,Miami Intl,0.0192
+146,La Guardia,305,Sarasota/Bradenton Intl,0.1353
+182,Lambert-St Louis Intl,305,Sarasota/Bradenton Intl,0.1155
+301,Tampa Intl,305,Sarasota/Bradenton Intl,0.0055
+248,Los Angeles Intl,318,Keahole-Kona Intll,0.2349
+201,San Francisco Intl,318,Keahole-Kona Intll,0.2421
+316,Kahului,318,Keahole-Kona Intll,0.0113
+312,Lihue,318,Keahole-Kona Intll,0.0272
+182,Lambert-St Louis Intl,239,Adams Field,0.0396
+232,Memphis Intl,239,Adams Field,0.0118
+216,Tulsa Intl,239,Adams Field,0.0234
+206,Springfield Regional,239,Adams Field,0.0247
+202,Richmond Intll,204,Roanoke Regional/Woodrum Field,0.0136
+118,Chicago O'hare Intl,218,Piedmont Triad Intll,0.0693
+146,La Guardia,218,Piedmont Triad Intll,0.0543
+218,Piedmont Triad Intll,299,Orlando Intl,0.0735
+152,Pittsburgh Intll,218,Piedmont Triad Intll,0.042
+162,Philadelphia Intl,218,Piedmont Triad Intll,0.0433
+177,Washington Dulles Intl,218,Piedmont Triad Intll,0.03
+218,Piedmont Triad Intll,221,Raleigh-Durham Intll,0.0062
+204,Roanoke Regional/Woodrum Field,218,Piedmont Triad Intll,0.0118
+45,Spokane Intl,118,Chicago O'hare Intl,0.1602
+45,Spokane Intl,201,San Francisco Intl,0.0986
+45,Spokane Intl,67,Minneapolis-St Paul Intl/Wold-,0.1266
+45,Spokane Intl,47,Seattle-Tacoma Intl,0.0244
+45,Spokane Intl,144,Salt Lake City Intl,0.0712
+45,Spokane Intl,65,Portland Intl,0.0323
+45,Spokane Intl,50,Missoula Intll,0.0187
+45,Spokane Intl,46,Great Falls Intl,0.0314
+45,Spokane Intl,55,Helena Regional,0.0299
+45,Spokane Intl,58,Lewiston-Nez Perce County,0.0122
+45,Spokane Intl,54,Pullman/Moscow Regional,0.0086
+118,Chicago O'hare Intl,128,Des Moines Intl,0.0296
+128,Des Moines Intl,258,Phoenix Sky Harbor Intl,0.1214
+128,Des Moines Intl,182,Lambert-St Louis Intl,0.0315
+67,Minneapolis-St Paul Intl/Wold-,128,Des Moines Intl,0.0321
+128,Des Moines Intl,152,Pittsburgh Intll,0.0691
+128,Des Moines Intl,133,Eppley Airfield,0.0116
+128,Des Moines Intl,142,Elko Muni-J.C. Harris Field,0.1129
+99,Kent County Intl,118,Chicago O'hare Intl,0.0149
+67,Minneapolis-St Paul Intl/Wold-,99,Kent County Intl,0.0435
+99,Kent County Intl,152,Pittsburgh Intll,0.0354
+99,Kent County Intl,167,Indianapolis Intl,0.0305
+94,General Mitchell Intll,99,Kent County Intl,0.0121
+201,San Francisco Intl,251,Long Beach /Daugherty Field/,0.0423
+251,Long Beach /Daugherty Field/,258,Phoenix Sky Harbor Intl,0.0314
+197,Metropolitan Oakland Intl,251,Long Beach /Daugherty Field/,0.0427
+242,Santa Barbara Muni,251,Long Beach /Daugherty Field/,0.0104
+118,Chicago O'hare Intl,260,Charleston Afb/Intl,0.0955
+146,La Guardia,260,Charleston Afb/Intl,0.0815
+147,Newark Intl,260,Charleston Afb/Intl,0.0802
+230,Charlotte/Douglas Intl,260,Charleston Afb/Intl,0.0226
+179,Washington National,260,Charleston Afb/Intl,0.0589
+177,Washington Dulles Intl,260,Charleston Afb/Intl,0.0592
+221,Raleigh-Durham Intll,260,Charleston Afb/Intl,0.0291
+260,Charleston Afb/Intl,284,Jacksonville Intl,0.0245
+260,Charleston Afb/Intl,273,Savannah Intll,0.0095
+316,Kahului,319,Hilo Intll,0.0133
+318,Keahole-Kona Intll,319,Hilo Intll,0.0051
+83,Boise Air Terminal /Gowen Fld/,118,Chicago O'hare Intl,0.145
+83,Boise Air Terminal /Gowen Fld/,248,Los Angeles Intl,0.0927
+83,Boise Air Terminal /Gowen Fld/,201,San Francisco Intl,0.0649
+83,Boise Air Terminal /Gowen Fld/,166,Stapleton Intl,0.0681
+47,Seattle-Tacoma Intl,83,Boise Air Terminal /Gowen Fld/,0.0483
+83,Boise Air Terminal /Gowen Fld/,144,Salt Lake City Intl,0.0343
+65,Portland Intl,83,Boise Air Terminal /Gowen Fld/,0.0378
+45,Spokane Intl,83,Boise Air Terminal /Gowen Fld/,0.0393
+59,Tri-Cities,83,Boise Air Terminal /Gowen Fld/,0.0297
+83,Boise Air Terminal /Gowen Fld/,85,Fanning Field,0.0211
+58,Lewiston-Nez Perce County,83,Boise Air Terminal /Gowen Fld/,0.0271
+83,Boise Air Terminal /Gowen Fld/,86,Friedman Memorial,0.0098
+83,Boise Air Terminal /Gowen Fld/,104,Twin Falls-Sun Valley Regional,0.0136
+54,Pullman/Moscow Regional,83,Boise Air Terminal /Gowen Fld/,0.0307
+83,Boise Air Terminal /Gowen Fld/,97,Pocatello Regional,0.0195
+118,Chicago O'hare Intl,157,Harrisburg Intll,0.0592
+152,Pittsburgh Intll,157,Harrisburg Intll,0.0178
+157,Harrisburg Intll,221,Raleigh-Durham Intll,0.0426
+141,University Park,157,Harrisburg Intll,0.0083
+118,Chicago O'hare Intl,181,City Of Colorado Springs Muni,0.0907
+181,City Of Colorado Springs Muni,261,Dallas/Fort Worth Intl,0.0687
+166,Stapleton Intl,181,City Of Colorado Springs Muni,0.0094
+181,City Of Colorado Springs Muni,258,Phoenix Sky Harbor Intl,0.0634
+181,City Of Colorado Springs Muni,182,Lambert-St Louis Intl,0.073
+181,City Of Colorado Springs Muni,219,Mc Carran Intl,0.0593
+144,Salt Lake City Intl,181,City Of Colorado Springs Muni,0.0416
+181,City Of Colorado Springs Muni,188,Pueblo Memorial,0.005
+146,La Guardia,237,Greenville-Spartanburg,0.0704
+162,Philadelphia Intl,237,Greenville-Spartanburg,0.0593
+221,Raleigh-Durham Intll,237,Greenville-Spartanburg,0.0197
+118,Chicago O'hare Intl,198,Wichita Mid-Continent,0.0637
+198,Wichita Mid-Continent,258,Phoenix Sky Harbor Intl,0.0845
+182,Lambert-St Louis Intl,198,Wichita Mid-Continent,0.0375
+198,Wichita Mid-Continent,219,Mc Carran Intl,0.0915
+152,Pittsburgh Intll,198,Wichita Mid-Continent,0.0917
+198,Wichita Mid-Continent,232,Memphis Intl,0.0453
+172,Kansas City Intl,198,Wichita Mid-Continent,0.0209
+198,Wichita Mid-Continent,216,Tulsa Intl,0.0159
+198,Wichita Mid-Continent,206,Springfield Regional,0.021
+142,Elko Muni-J.C. Harris Field,198,Wichita Mid-Continent,0.0983
+322,Cyril E King,325,Alexander Hamilton,0.0061
+118,Chicago O'hare Intl,143,Long Island Mac Arthur,0.0762
+143,Long Island Mac Arthur,311,Miami Intl,0.1479
+143,Long Island Mac Arthur,299,Orlando Intl,0.1253
+143,Long Island Mac Arthur,152,Pittsburgh Intll,0.0364
+143,Long Island Mac Arthur,162,Philadelphia Intl,0.014
+143,Long Island Mac Arthur,221,Raleigh-Durham Intll,0.0552
+143,Long Island Mac Arthur,306,Palm Beach Intl,0.1394
+92,Syracuse Hancock Intl,143,Long Island Mac Arthur,0.0269
+143,Long Island Mac Arthur,170,Atlantic City Intll,0.0148
+118,Chicago O'hare Intl,249,Columbia Metropolitan,0.0842
+147,Newark Intl,249,Columbia Metropolitan,0.0736
+162,Philadelphia Intl,249,Columbia Metropolitan,0.0641
+230,Charlotte/Douglas Intl,249,Columbia Metropolitan,0.0122
+221,Raleigh-Durham Intll,249,Columbia Metropolitan,0.0219
+218,Piedmont Triad Intll,249,Columbia Metropolitan,0.0215
+249,Columbia Metropolitan,260,Charleston Afb/Intl,0.0113
+90,Dane County Regional-Truax Fie,118,Chicago O'hare Intl,0.0133
+90,Dane County Regional-Truax Fie,182,Lambert-St Louis Intl,0.0422
+67,Minneapolis-St Paul Intl/Wold-,90,Dane County Regional-Truax Fie,0.0258
+90,Dane County Regional-Truax Fie,152,Pittsburgh Intll,0.0528
+73,Outagamie County,90,Dane County Regional-Truax Fie,0.0115
+293,Houston Intercontinental,308,Rio Grande Valley Intl,0.0378
+297,San Antonio Intl,308,Rio Grande Valley Intl,0.0319
+273,Savannah Intll,322,Cyril E King,0.1556
+147,Newark Intl,298,Daytona Beach Intl,0.1155
+298,Daytona Beach Intl,299,Orlando Intl,0.0072
+221,Raleigh-Durham Intll,298,Daytona Beach Intl,0.065
+284,Jacksonville Intl,298,Daytona Beach Intl,0.013
+298,Daytona Beach Intl,300,Melbourne Intll,0.0105
+327,Saipan Intl,332,West Tinian,0.0013
+118,Chicago O'hare Intl,240,Huntsville Intl-Carl T Jones F,0.0703
+177,Washington Dulles Intl,240,Huntsville Intl-Carl T Jones F,0.0627
+232,Memphis Intl,240,Huntsville Intl-Carl T Jones F,0.0169
+261,Dallas/Fort Worth Intl,303,Corpus Christi Intl,0.049
+293,Houston Intercontinental,303,Corpus Christi Intl,0.0238
+296,William P Hobby,303,Corpus Christi Intl,0.0212
+213,Fresno Air Terminal,248,Los Angeles Intl,0.0279
+201,San Francisco Intl,213,Fresno Air Terminal,0.0157
+144,Salt Lake City Intl,213,Fresno Air Terminal,0.0549
+213,Fresno Air Terminal,263,San Diego Intl-Lindbergh Fld,0.0407
+197,Metropolitan Oakland Intl,213,Fresno Air Terminal,0.0156
+213,Fresno Air Terminal,246,Ontario Intl,0.0282
+213,Fresno Air Terminal,253,John Wayne Airport-Orange Coun,0.0311
+183,Sacramento Metropolitan,213,Fresno Air Terminal,0.0208
+169,Reno/Tahoe Intll,213,Fresno Air Terminal,0.026
+199,Modesto City-County--Harry Sha,213,Fresno Air Terminal,0.0103
+205,Merced Municipal/Macready Fiel,213,Fresno Air Terminal,0.0064
+200,Mammoth Lakes,213,Fresno Air Terminal,0.0093
+287,Tallahassee Regional,301,Tampa Intl,0.025
+118,Chicago O'hare Intl,229,Amarillo Intl,0.0955
+229,Amarillo Intl,261,Dallas/Fort Worth Intl,0.0325
+229,Amarillo Intl,262,Dallas Love Field,0.0335
+229,Amarillo Intl,254,Lubbock Intl,0.0148
+142,Elko Muni-J.C. Harris Field,229,Amarillo Intl,0.0895
+201,San Francisco Intl,250,Palm Springs Regional,0.047
+182,Lambert-St Louis Intl,250,Palm Springs Regional,0.1413
+144,Salt Lake City Intl,250,Palm Springs Regional,0.0704
+203,San Jose Intll,250,Palm Springs Regional,0.0436
+250,Palm Springs Regional,274,Tucson Intl,0.0327
+261,Dallas/Fort Worth Intl,283,"Baton Rouge Metropolitan, Ryan",0.0375
+283,"Baton Rouge Metropolitan, Ryan",293,Houston Intercontinental,0.022
+232,Memphis Intl,283,"Baton Rouge Metropolitan, Ryan",0.0435
+271,Jackson Intll,283,"Baton Rouge Metropolitan, Ryan",0.0177
+281,Mobile Regional,283,"Baton Rouge Metropolitan, Ryan",0.0149
+267,Shreveport Regional,283,"Baton Rouge Metropolitan, Ryan",0.0228
+286,Pensacola Regional,301,Tampa Intl,0.0337
+118,Chicago O'hare Intl,149,Lehigh Valley Intll,0.0648
+149,Lehigh Valley Intll,255,The William B Hartsfield Atlan,0.0811
+112,Detroit Metropolitan Wayne Cou,149,Lehigh Valley Intll,0.043
+149,Lehigh Valley Intll,152,Pittsburgh Intll,0.0244
+149,Lehigh Valley Intll,230,Charlotte/Douglas Intl,0.059
+149,Lehigh Valley Intll,221,Raleigh-Durham Intll,0.0487
+149,Lehigh Valley Intll,157,Harrisburg Intll,0.008
+72,Burlington Intl,118,Chicago O'hare Intl,0.0788
+72,Burlington Intl,146,La Guardia,0.0355
+72,Burlington Intl,147,Newark Intl,0.0365
+72,Burlington Intl,152,Pittsburgh Intll,0.0523
+72,Burlington Intl,162,Philadelphia Intl,0.0452
+72,Burlington Intl,177,Washington Dulles Intl,0.0572
+72,Burlington Intl,96,Manchester,0.0171
+271,Jackson Intll,281,Mobile Regional,0.018
+267,Shreveport Regional,271,Jackson Intll,0.0191
+118,Chicago O'hare Intl,120,Cedar Rapids Muni,0.0194
+120,Cedar Rapids Muni,166,Stapleton Intl,0.07
+120,Cedar Rapids Muni,258,Phoenix Sky Harbor Intl,0.1312
+120,Cedar Rapids Muni,182,Lambert-St Louis Intl,0.0307
+67,Minneapolis-St Paul Intl/Wold-,120,Cedar Rapids Muni,0.0297
+120,Cedar Rapids Muni,130,Quad-City,0.0073
+106,Sioux Gateway,120,Cedar Rapids Muni,0.0243
+118,Chicago O'hare Intl,192,Blue Grass,0.0412
+182,Lambert-St Louis Intl,192,Blue Grass,0.0301
+152,Pittsburgh Intll,192,Blue Grass,0.0323
+189,Louisville Intl,192,Blue Grass,0.0059
+192,Blue Grass,222,Mc Ghee Tyson,0.0215
+192,Blue Grass,204,Roanoke Regional/Woodrum Field,0.0246
+126,Michiana Rgnl Transportation C,182,Lambert-St Louis Intl,0.0349
+281,Mobile Regional,286,Pensacola Regional,0.0058
+266,Monroe Regional,281,Mobile Regional,0.0261
+105,Detroit City,182,Lambert-St Louis Intl,0.0512
+105,Detroit City,123,Chicago Midway,0.0248
+105,Detroit City,167,Indianapolis Intl,0.0306
+96,Manchester,118,Chicago O'hare Intl,0.0844
+96,Manchester,152,Pittsburgh Intll,0.0505
+96,Manchester,162,Philadelphia Intl,0.0351
+109,General Edward Lawrence Logan,170,Atlantic City Intll,0.0332
+112,Detroit Metropolitan Wayne Cou,170,Atlantic City Intll,0.0519
+152,Pittsburgh Intll,170,Atlantic City Intll,0.0305
+131,Cleveland-Hopkins Intl,170,Atlantic City Intll,0.0415
+125,Theodore Francis Green State,170,Atlantic City Intll,0.027
+300,Melbourne Intll,301,Tampa Intl,0.0097
+221,Raleigh-Durham Intll,300,Melbourne Intll,0.0749
+300,Melbourne Intll,307,Southwest Florida Intl,0.016
+118,Chicago O'hare Intl,136,Westchester County,0.0728
+67,Minneapolis-St Paul Intl/Wold-,136,Westchester County,0.1058
+136,Westchester County,152,Pittsburgh Intll,0.0337
+134,Tweed-New Haven,136,Westchester County,0.0046
+118,Chicago O'hare Intl,139,Akron-Canton Regional,0.0344
+139,Akron-Canton Regional,162,Philadelphia Intl,0.0331
+139,Akron-Canton Regional,230,Charlotte/Douglas Intl,0.0546
+139,Akron-Canton Regional,177,Washington Dulles Intl,0.0277
+139,Akron-Canton Regional,167,Indianapolis Intl,0.0272
+139,Akron-Canton Regional,161,James M Cox Dayton Intl,0.0171
+137,Fort Wayne Intll,139,Akron-Canton Regional,0.0191
+135,Youngstown-Warren Regional,139,Akron-Canton Regional,0.005
+118,Chicago O'hare Intl,137,Fort Wayne Intll,0.0168
+137,Fort Wayne Intll,152,Pittsburgh Intll,0.0257
+126,Michiana Rgnl Transportation C,137,Fort Wayne Intll,0.0089
+127,Toledo Express,137,Fort Wayne Intll,0.0092
+267,Shreveport Regional,281,Mobile Regional,0.033
+118,Chicago O'hare Intl,130,Quad-City,0.0142
+130,Quad-City,258,Phoenix Sky Harbor Intl,0.1336
+130,Quad-City,182,Lambert-St Louis Intl,0.0258
+130,Quad-City,148,Greater Peoria Regional,0.0086
+201,San Francisco Intl,242,Santa Barbara Muni,0.0331
+224,Meadows Field,242,Santa Barbara Muni,0.0104
+26,Juneau Intl,47,Seattle-Tacoma Intl,0.1216
+26,Juneau Intl,33,Ketchikan Intl,0.0322
+26,Juneau Intl,29,Sitka,0.0131
+26,Juneau Intl,31,James A Johnson Petersburg,0.017
+22,Yakutat,26,Juneau Intl,0.0281
+230,Charlotte/Douglas Intl,234,Lovell Field,0.0217
+4,Fairbanks Intl,47,Seattle-Tacoma Intl,0.2109
+4,Fairbanks Intl,26,Juneau Intl,0.0915
+2,Deadhorse,4,Fairbanks Intl,0.0515
+1,Wiley Post-Will Rogers Mem,4,Fairbanks Intl,0.0767
+75,Mahlon Sweet Field,201,San Francisco Intl,0.0622
+47,Seattle-Tacoma Intl,75,Mahlon Sweet Field,0.032
+65,Portland Intl,75,Mahlon Sweet Field,0.0143
+75,Mahlon Sweet Field,108,Rogue Valley Intl- M,0.0168
+74,Roberts Field,75,Mahlon Sweet Field,0.0106
+75,Mahlon Sweet Field,151,Redding Muni,0.0348
+75,Mahlon Sweet Field,116,Klamath Falls Intll,0.0202
+75,Mahlon Sweet Field,87,North Bend Muni,0.0085
+71,Austin Straubel Intll,118,Chicago O'hare Intl,0.024
+67,Minneapolis-St Paul Intl/Wold-,71,Austin Straubel Intll,0.0262
+71,Austin Straubel Intll,90,Dane County Regional-Truax Fie,0.0143
+57,Marquette County,71,Austin Straubel Intll,0.0197
+71,Austin Straubel Intll,77,Wittman Regional,0.0053
+62,Billings Logan Intl,166,Stapleton Intl,0.0605
+62,Billings Logan Intl,67,Minneapolis-St Paul Intl/Wold-,0.0786
+62,Billings Logan Intl,144,Salt Lake City Intl,0.0511
+45,Spokane Intl,62,Billings Logan Intl,0.049
+50,Missoula Intll,62,Billings Logan Intl,0.0302
+62,Billings Logan Intl,63,Gallatin Field,0.0133
+46,Great Falls Intl,62,Billings Logan Intl,0.0215
+40,Glacier Park Intl,62,Billings Logan Intl,0.0377
+55,Helena Regional,62,Billings Logan Intl,0.0191
+61,Bert Mooney,62,Billings Logan Intl,0.0201
+150,John F Kennedy Intl,325,Alexander Hamilton,0.2238
+311,Miami Intl,325,Alexander Hamilton,0.1105
+147,Newark Intl,325,Alexander Hamilton,0.2247
+299,Orlando Intl,325,Alexander Hamilton,0.1326
+221,Raleigh-Durham Intll,325,Alexander Hamilton,0.1877
+273,Savannah Intll,325,Alexander Hamilton,0.1612
+100,Capital City,118,Chicago O'hare Intl,0.0186
+100,Capital City,152,Pittsburgh Intll,0.0312
+100,Capital City,137,Fort Wayne Intll,0.0175
+223,Asheville Regional,230,Charlotte/Douglas Intl,0.0084
+152,Pittsburgh Intll,252,Myrtle Beach Intl,0.0654
+162,Philadelphia Intl,252,Myrtle Beach Intl,0.0621
+221,Raleigh-Durham Intll,252,Myrtle Beach Intl,0.021
+111,Kalamazoo/Battle Creek Interna,118,Chicago O'hare Intl,0.0123
+111,Kalamazoo/Battle Creek Interna,112,Detroit Metropolitan Wayne Cou,0.0112
+67,Minneapolis-St Paul Intl/Wold-,111,Kalamazoo/Battle Creek Interna,0.0465
+111,Kalamazoo/Battle Creek Interna,152,Pittsburgh Intll,0.0318
+111,Kalamazoo/Battle Creek Interna,161,James M Cox Dayton Intl,0.0233
+71,Austin Straubel Intll,111,Kalamazoo/Battle Creek Interna,0.0252
+100,Capital City,111,Kalamazoo/Battle Creek Interna,0.0071
+132,Wilkes-Barre/Scranton Intl,152,Pittsburgh Intll,0.0243
+132,Wilkes-Barre/Scranton Intl,230,Charlotte/Douglas Intl,0.0643
+132,Wilkes-Barre/Scranton Intl,174,Baltimore-Washington Intl,0.0212
+118,Chicago O'hare Intl,140,Lincoln Muni,0.0464
+140,Lincoln Muni,182,Lambert-St Louis Intl,0.0382
+82,Joe Foss Field,140,Lincoln Muni,0.0261
+106,Sioux Gateway,140,Lincoln Muni,0.015
+201,San Francisco Intl,214,Monterey Peninsula,0.0103
+82,Joe Foss Field,118,Chicago O'hare Intl,0.0475
+82,Joe Foss Field,182,Lambert-St Louis Intl,0.0564
+67,Minneapolis-St Paul Intl/Wold-,82,Joe Foss Field,0.0219
+82,Joe Foss Field,144,Salt Lake City Intl,0.0821
+82,Joe Foss Field,130,Quad-City,0.0376
+76,Rapid City Regional,82,Joe Foss Field,0.0325
+152,Pittsburgh Intll,186,Yeager,0.0214
+186,Yeager,192,Blue Grass,0.0156
+84,Mbs Intll,118,Chicago O'hare Intl,0.0245
+118,Chicago O'hare Intl,191,Evansville Regional,0.0376
+182,Lambert-St Louis Intl,191,Evansville Regional,0.0159
+152,Pittsburgh Intll,191,Evansville Regional,0.0439
+167,Indianapolis Intl,191,Evansville Regional,0.0172
+255,The William B Hartsfield Atlan,259,Bush Field,0.0128
+230,Charlotte/Douglas Intl,259,Bush Field,0.0184
+249,Columbia Metropolitan,259,Bush Field,0.007
+259,Bush Field,273,Savannah Intll,0.0125
+182,Lambert-St Louis Intl,206,Springfield Regional,0.0211
+148,Greater Peoria Regional,182,Lambert-St Louis Intl,0.0186
+118,Chicago O'hare Intl,173,Aspen-Pitkin Co/Sardy Field,0.1001
+173,Aspen-Pitkin Co/Sardy Field,261,Dallas/Fort Worth Intl,0.0786
+173,Aspen-Pitkin Co/Sardy Field,248,Los Angeles Intl,0.0774
+166,Stapleton Intl,173,Aspen-Pitkin Co/Sardy Field,0.0114
+51,Hector Intll,118,Chicago O'hare Intl,0.0655
+51,Hector Intll,67,Minneapolis-St Paul Intl/Wold-,0.0267
+51,Hector Intll,82,Joe Foss Field,0.0319
+272,Dannelly Field,283,"Baton Rouge Metropolitan, Ryan",0.0295
+266,Monroe Regional,272,Dannelly Field,0.0289
+218,Piedmont Triad Intll,235,Fayetteville Regional/Grannis,0.0118
+118,Chicago O'hare Intl,158,University Of Illinois-Willard,0.0186
+158,University Of Illinois-Willard,182,Lambert-St Louis Intl,0.0162
+152,Pittsburgh Intll,158,University Of Illinois-Willard,0.0412
+158,University Of Illinois-Willard,161,James M Cox Dayton Intl,0.0207
+148,Greater Peoria Regional,158,University Of Illinois-Willard,0.0094
+158,University Of Illinois-Willard,171,Hulman Regional,0.0074
+113,Binghamton Regional/Edwin A Li,152,Pittsburgh Intll,0.0271
+113,Binghamton Regional/Edwin A Li,174,Baltimore-Washington Intl,0.0292
+73,Outagamie County,118,Chicago O'hare Intl,0.022
+73,Outagamie County,94,General Mitchell Intll,0.0129
+71,Austin Straubel Intll,73,Outagamie County,0.003
+69,Central Wisconsin,73,Outagamie County,0.0077
+73,Outagamie County,77,Wittman Regional,0.0026
+162,Philadelphia Intl,243,New Hanover Intll,0.0552
+221,Raleigh-Durham Intll,243,New Hanover Intll,0.0159
+117,Erie Intl,152,Pittsburgh Intll,0.0152
+76,Rapid City Regional,144,Salt Lake City Intl,0.0551
+47,Seattle-Tacoma Intl,59,Tri-Cities,0.0197
+59,Tri-Cities,144,Salt Lake City Intl,0.0638
+45,Spokane Intl,59,Tri-Cities,0.0152
+54,Pullman/Moscow Regional,59,Tri-Cities,0.0113
+93,Bishop Intll,118,Chicago O'hare Intl,0.0232
+93,Bishop Intll,152,Pittsburgh Intll,0.0297
+93,Bishop Intll,100,Capital City,0.0047
+108,Rogue Valley Intl- M,201,San Francisco Intl,0.0455
+65,Portland Intl,108,Rogue Valley Intl- M,0.0307
+78,Rochester Intll,79,La Crosse Muni,0.0063
+110,Worcester Muni,152,Pittsburgh Intll,0.0458
+110,Worcester Muni,162,Philadelphia Intl,0.0286
+152,Pittsburgh Intll,210,Newport News/Williamsburg Inte,0.0373
+81,Jackson Hole,118,Chicago O'hare Intl,0.1173
+81,Jackson Hole,144,Salt Lake City Intl,0.0277
+81,Jackson Hole,85,Fanning Field,0.0069
+50,Missoula Intll,67,Minneapolis-St Paul Intl/Wold-,0.1082
+50,Missoula Intll,144,Salt Lake City Intl,0.0596
+224,Meadows Field,261,Dallas/Fort Worth Intl,0.1148
+201,San Francisco Intl,224,Meadows Field,0.0268
+183,Sacramento Metropolitan,224,Meadows Field,0.0338
+182,Lambert-St Louis Intl,220,Drake Field,0.0327
+190,Charlottesville-Albemarle,230,Charlotte/Douglas Intl,0.0307
+177,Washington Dulles Intl,190,Charlottesville-Albemarle,0.0092
+190,Charlottesville-Albemarle,202,Richmond Intll,0.0083
+53,Bismarck Muni,166,Stapleton Intl,0.0701
+53,Bismarck Muni,67,Minneapolis-St Paul Intl/Wold-,0.0424
+53,Bismarck Muni,144,Salt Lake City Intl,0.0809
+53,Bismarck Muni,82,Joe Foss Field,0.0367
+41,Minot Intl,53,Bismarck Muni,0.0145
+63,Gallatin Field,166,Stapleton Intl,0.0656
+63,Gallatin Field,67,Minneapolis-St Paul Intl/Wold-,0.0918
+63,Gallatin Field,144,Salt Lake City Intl,0.0479
+45,Spokane Intl,63,Gallatin Field,0.037
+50,Missoula Intll,63,Gallatin Field,0.0185
+46,Great Falls Intl,63,Gallatin Field,0.0163
+55,Helena Regional,63,Gallatin Field,0.0089
+33,Ketchikan Intl,47,Seattle-Tacoma Intl,0.0895
+29,Sitka,33,Ketchikan Intl,0.0247
+32,Wrangell,33,Ketchikan Intl,0.0113
+52,Duluth Intl,67,Minneapolis-St Paul Intl/Wold-,0.0194
+69,Central Wisconsin,118,Chicago O'hare Intl,0.0283
+69,Central Wisconsin,71,Austin Straubel Intll,0.0084
+57,Marquette County,69,Central Wisconsin,0.0198
+85,Fanning Field,261,Dallas/Fort Worth Intl,0.1272
+85,Fanning Field,144,Salt Lake City Intl,0.0261
+85,Fanning Field,97,Pocatello Regional,0.0064
+163,Capital,182,Lambert-St Louis Intl,0.011
+261,Dallas/Fort Worth Intl,294,Jefferson County,0.032
+46,Great Falls Intl,67,Minneapolis-St Paul Intl/Wold-,0.0958
+46,Great Falls Intl,144,Salt Lake City Intl,0.0641
+46,Great Falls Intl,50,Missoula Intll,0.0149
+46,Great Falls Intl,55,Helena Regional,0.009
+115,Elmira/Corning Regional,152,Pittsburgh Intll,0.0233
+103,Tompkins County,115,Elmira/Corning Regional,0.0038
+106,Sioux Gateway,118,Chicago O'hare Intl,0.0434
+82,Joe Foss Field,106,Sioux Gateway,0.0113
+103,Tompkins County,152,Pittsburgh Intll,0.0271
+39,Bellingham Intl,47,Seattle-Tacoma Intl,0.013
+39,Bellingham Intl,65,Portland Intl,0.0306
+39,Bellingham Intl,142,Elko Muni-J.C. Harris Field,0.0835
+6,St Mary's,13,Bethel,0.0143
+7,Aniak,13,Bethel,0.014
+13,Bethel,21,Quinhagak,0.0098
+13,Bethel,18,Eek,0.0055
+13,Bethel,17,Tuntutuliak,0.006
+12,Kwethluk,13,Bethel,0.002
+13,Bethel,20,Kwigillingok,0.0112
+13,Bethel,19,Kongiganak,0.0095
+10,Akiachak,13,Bethel,0.0023
+9,Tuluksak,13,Bethel,0.0053
+13,Bethel,14,Napaskiak,0.0009
+13,Bethel,15,Napakiak,0.0011
+266,Monroe Regional,286,Pensacola Regional,0.0315
+266,Monroe Regional,271,Jackson Intll,0.0102
+266,Monroe Regional,267,Shreveport Regional,0.0091
+182,Lambert-St Louis Intl,226,Fort Smith Regional,0.0385
+220,Drake Field,226,Fort Smith Regional,0.0064
+79,La Crosse Muni,118,Chicago O'hare Intl,0.025
+67,Minneapolis-St Paul Intl/Wold-,79,La Crosse Muni,0.0138
+208,Durango-La Plata County,258,Phoenix Sky Harbor Intl,0.0416
+152,Pittsburgh Intll,187,Tri-State/Milton J.Ferguson Fi,0.0235
+44,Grand Forks Intl,67,Minneapolis-St Paul Intl/Wold-,0.0356
+41,Minot Intl,67,Minneapolis-St Paul Intl/Wold-,0.0522
+201,San Francisco Intl,228,San Luis Obispo County-Mc Ches,0.0244
+228,San Luis Obispo County-Mc Ches,236,Santa Maria Pub/Capt G Allan H,0.0033
+261,Dallas/Fort Worth Intl,282,Easterwood Field,0.0223
+47,Seattle-Tacoma Intl,142,Elko Muni-J.C. Harris Field,0.0714
+142,Elko Muni-J.C. Harris Field,144,Salt Lake City Intl,0.0194
+65,Portland Intl,142,Elko Muni-J.C. Harris Field,0.0572
+45,Spokane Intl,142,Elko Muni-J.C. Harris Field,0.0655
+76,Rapid City Regional,142,Elko Muni-J.C. Harris Field,0.0717
+121,William B. Heilig Field,142,Elko Muni-J.C. Harris Field,0.0629
+321,Luis Munoz Marin Intl,323,Eugenio Maria De Hostos,0.0061
+98,Natrona County Intl,144,Salt Lake City Intl,0.0347
+76,Rapid City Regional,98,Natrona County Intl,0.0204
+8,Anchorage Intl,27,Kodiak,0.0351
+56,Yakima Air Terminal,59,Tri-Cities,0.0078
+40,Glacier Park Intl,144,Salt Lake City Intl,0.0728
+40,Glacier Park Intl,45,Spokane Intl,0.018
+40,Glacier Park Intl,50,Missoula Intll,0.0133
+40,Glacier Park Intl,46,Great Falls Intl,0.0167
+40,Glacier Park Intl,55,Helena Regional,0.02
+74,Roberts Field,201,San Francisco Intl,0.0637
+42,William R Fairchild Intl,47,Seattle-Tacoma Intl,0.0089
+138,Arcata,201,San Francisco Intl,0.0333
+138,Arcata,183,Sacramento Metropolitan,0.0253
+124,Jack Mc Namara Field,138,Arcata,0.0076
+151,Redding Muni,201,San Francisco Intl,0.0276
+65,Portland Intl,151,Redding Muni,0.0485
+66,Mcnary Fld,151,Redding Muni,0.0422
+261,Dallas/Fort Worth Intl,268,Abilene Regional,0.0143
+118,Chicago O'hare Intl,154,Bloomington/Normal,0.0152
+154,Bloomington/Normal,182,Lambert-St Louis Intl,0.018
+154,Bloomington/Normal,164,Decatur,0.0062
+154,Bloomington/Normal,171,Hulman Regional,0.0128
+193,Stockton Metropolitan,201,San Francisco Intl,0.0063
+102,Waterloo Muni,118,Chicago O'hare Intl,0.0236
+102,Waterloo Muni,182,Lambert-St Louis Intl,0.0378
+102,Waterloo Muni,120,Cedar Rapids Muni,0.0073
+102,Waterloo Muni,107,Dubuque Regional,0.0087
+316,Kahului,317,Lanai,0.0028
+314,Molokai,317,Lanai,0.0036
+88,Muskegon County,118,Chicago O'hare Intl,0.0142
+29,Sitka,47,Seattle-Tacoma Intl,0.1134
+55,Helena Regional,144,Salt Lake City Intl,0.0556
+50,Missoula Intll,55,Helena Regional,0.0112
+184,Gunnison County,293,Houston Intercontinental,0.1008
+231,Flagstaff Pulliam,258,Phoenix Sky Harbor Intl,0.0164
+118,Chicago O'hare Intl,153,Yampa Valley,0.0994
+153,Yampa Valley,248,Los Angeles Intl,0.0845
+67,Minneapolis-St Paul Intl/Wold-,153,Yampa Valley,0.0829
+153,Yampa Valley,293,Houston Intercontinental,0.1171
+153,Yampa Valley,203,San Jose Intll,0.0806
+3,Ralph Wien Memorial,5,Nome,0.0269
+118,Chicago O'hare Intl,164,Decatur,0.0211
+164,Decatur,182,Lambert-St Louis Intl,0.0128
+8,Anchorage Intl,24,King Salmon,0.0414
+23,Dillingham,24,King Salmon,0.01
+118,Chicago O'hare Intl,134,Tweed-New Haven,0.0768
+261,Dallas/Fort Worth Intl,277,Waco Regional,0.0122
+47,Seattle-Tacoma Intl,58,Lewiston-Nez Perce County,0.0288
+58,Lewiston-Nez Perce County,65,Portland Intl,0.0294
+58,Lewiston-Nez Perce County,59,Tri-Cities,0.0107
+56,Yakima Air Terminal,58,Lewiston-Nez Perce County,0.018
+54,Pullman/Moscow Regional,58,Lewiston-Nez Perce County,0.0036
+180,Columbia Regional,182,Lambert-St Louis Intl,0.0095
+269,Gregg County,270,Tyler Pounds Field,0.0035
+57,Marquette County,118,Chicago O'hare Intl,0.0435
+57,Marquette County,70,Cherry Capital,0.0199
+47,Seattle-Tacoma Intl,54,Pullman/Moscow Regional,0.0273
+107,Dubuque Regional,118,Chicago O'hare Intl,0.0149
+47,Seattle-Tacoma Intl,48,Pangborn Memorial,0.0107
+48,Pangborn Memorial,65,Portland Intl,0.0212
+48,Pangborn Memorial,49,Grant County,0.0048
+327,Saipan Intl,330,Babelthuap/Koror,0.0935
+45,Spokane Intl,61,Bert Mooney,0.0302
+50,Missoula Intll,61,Bert Mooney,0.0123
+61,Bert Mooney,63,Gallatin Field,0.007
+40,Glacier Park Intl,61,Bert Mooney,0.0242
+55,Helena Regional,61,Bert Mooney,0.0067
+182,Lambert-St Louis Intl,211,Barkley Regional,0.0181
+182,Lambert-St Louis Intl,209,Joplin Regional,0.0261
+206,Springfield Regional,209,Joplin Regional,0.0058
+327,Saipan Intl,328,Rota Intl,0.0093
+97,Pocatello Regional,104,Twin Falls-Sun Valley Regional,0.0105
+118,Chicago O'hare Intl,155,Purdue University,0.0157
+1,Wiley Post-Will Rogers Mem,8,Anchorage Intl,0.1026
+1,Wiley Post-Will Rogers Mem,2,Deadhorse,0.0436
+199,Modesto City-County--Harry Sha,201,San Francisco Intl,0.0072
+122,Merrill C Meigs,163,Capital,0.022
+16,Merle K (Mudhole) Smith,22,Yakutat,0.0311
+118,Chicago O'hare Intl,145,Burlington Regional,0.02
+145,Burlington Regional,182,Lambert-St Louis Intl,0.0198
+130,Quad-City,145,Burlington Regional,0.0071
+145,Burlington Regional,148,Greater Peoria Regional,0.0074
+65,Portland Intl,116,Klamath Falls Intll,0.0331
+108,Rogue Valley Intl- M,116,Klamath Falls Intll,0.0062
+74,Roberts Field,116,Klamath Falls Intll,0.0203
+116,Klamath Falls Intll,151,Redding Muni,0.0159
+66,Mcnary Fld,116,Klamath Falls Intll,0.0271
+47,Seattle-Tacoma Intl,60,Walla Walla Regional,0.0242
+60,Walla Walla Regional,65,Portland Intl,0.0225
+59,Tri-Cities,60,Walla Walla Regional,0.0046
+56,Yakima Air Terminal,60,Walla Walla Regional,0.0124
+58,Lewiston-Nez Perce County,60,Walla Walla Regional,0.0069
+54,Pullman/Moscow Regional,60,Walla Walla Regional,0.0087
+60,Walla Walla Regional,64,Eastern Oregon Regional At Pen,0.0048
+49,Grant County,60,Walla Walla Regional,0.0119
+29,Sitka,31,James A Johnson Petersburg,0.0125
+31,James A Johnson Petersburg,32,Wrangell,0.0043
+321,Luis Munoz Marin Intl,324,Mercedita,0.005
+65,Portland Intl,87,North Bend Muni,0.0223
+66,Mcnary Fld,87,North Bend Muni,0.0156
+194,Greenbrier Valley,221,Raleigh-Durham Intll,0.0207
+165,Chico Muni,201,San Francisco Intl,0.021
+130,Quad-City,160,Quincy Muni Baldwin Field,0.0148
+182,Lambert-St Louis Intl,195,Williamson County Regional,0.0118
+155,Purdue University,171,Hulman Regional,0.0094
+6,St Mary's,7,Aniak,0.0197
+7,Aniak,8,Anchorage Intl,0.0488
+8,Anchorage Intl,38,Adak Naf,0.1622
+36,Unalaska,38,Adak Naf,0.0549
+37,Eareckson As,38,Adak Naf,0.0478
+25,Gustavus,26,Juneau Intl,0.0057
+35,Cold Bay,36,Unalaska,0.0232
+28,St Paul Island,35,Cold Bay,0.0425
+150,John F Kennedy Intl,320,Rafael Hernandez,0.2143
+311,Miami Intl,320,Rafael Hernandez,0.0968
+147,Newark Intl,320,Rafael Hernandez,0.2151
+320,Rafael Hernandez,324,Mercedita,0.0054
+182,Lambert-St Louis Intl,207,Cape Girardeau Regional,0.0151
+195,Williamson County Regional,207,Cape Girardeau Regional,0.0058
+64,Eastern Oregon Regional At Pen,65,Portland Intl,0.0191
+59,Tri-Cities,64,Eastern Oregon Regional At Pen,0.0057
+118,Chicago O'hare Intl,168,Eagle County Regional,0.0993
+168,Eagle County Regional,258,Phoenix Sky Harbor Intl,0.0647
+144,Salt Lake City Intl,168,Eagle County Regional,0.028
+201,San Francisco Intl,205,Merced Municipal/Macready Fiel,0.0099
+47,Seattle-Tacoma Intl,49,Grant County,0.0154
+49,Grant County,56,Yakima Air Terminal,0.0087
+8,Anchorage Intl,37,Eareckson As,0.1999
+8,Anchorage Intl,34,Sand Point,0.0774
+124,Jack Mc Namara Field,201,San Francisco Intl,0.0408
+17,Tuntutuliak,19,Kongiganak,0.0038
+17,Tuntutuliak,20,Kwigillingok,0.0053
+19,Kongiganak,20,Kwigillingok,0.0018
+30,Port Heiden,34,Sand Point,0.0184
+10,Akiachak,12,Kwethluk,0.001
+9,Tuluksak,10,Akiachak,0.003
+9,Tuluksak,12,Kwethluk,0.0037
+11,Akiak,13,Bethel,0.0033
+10,Akiachak,11,Akiak,0.0011
+9,Tuluksak,11,Akiak,0.0022
+315,Kapalua,316,Kahului,0.0013
+315,Kapalua,317,Lanai,0.0022
